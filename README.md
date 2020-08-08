@@ -1,4 +1,4 @@
- ### And then I was like 🥵
+ ### And then I was like 🥱
 <!--
 **Mat2ja/Mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
