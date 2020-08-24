@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2020 - 22 August, 2020
+Week: 16 August, 2020 - 23 August, 2020
 
-JavaScript   16 hrs 40 mins  ██████████████████▓░░░░░░   75.28 % 
-SCSS         2 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-CSS          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-HTML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JavaScript   16 hrs 52 mins  ████████████████▓░░░░░░░░   66.07 % 
+SCSS         3 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+HTML         1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+CSS          1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Text         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
