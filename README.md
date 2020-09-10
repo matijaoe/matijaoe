@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2020 - 08 September, 2020
+Week: 02 September, 2020 - 09 September, 2020
 
-JavaScript   16 hrs 18 mins  █████████████████████▒░░░   85.22 % 
-CSS          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-JSON         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JavaScript   16 hrs 34 mins  █████████████████████▒░░░   84.79 % 
+CSS          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+JSON         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
