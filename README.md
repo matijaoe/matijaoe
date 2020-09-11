@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 ```text
 Week: 03 September, 2020 - 10 September, 2020
 
-JavaScript   16 hrs 34 mins  █████████████████████▒░░░   84.79 % 
-CSS          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-JSON         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript   11 hrs 15 mins  ██████████████░░░░░░░░░░░   55.49 % 
+SCSS         3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.89 % 
+HTML         2 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+CSS          1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
