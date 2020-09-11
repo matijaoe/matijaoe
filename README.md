@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2020 - 09 September, 2020
+Week: 03 September, 2020 - 10 September, 2020
 
 JavaScript   16 hrs 34 mins  █████████████████████▒░░░   84.79 % 
 CSS          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
