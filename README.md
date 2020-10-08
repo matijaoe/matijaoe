@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
 SCSS         8 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   36.33 % 
 JavaScript   8 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   35.41 % 
