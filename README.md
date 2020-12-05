@@ -1,4 +1,3 @@
- ### And then I was like 🥱
 <!--
 **Mat2ja/Mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src='https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif'>
 
 <!--START_SECTION:waka-->
 ```text
