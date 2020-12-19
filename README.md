@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2020 - 17 December, 2020
+Week: 11 December, 2020 - 18 December, 2020
 
-Python   16 hrs 40 mins  ████████████░░░░░░░░░░░░░   47.92 % 
-Java     12 hrs 22 mins  █████████░░░░░░░░░░░░░░░░   35.58 % 
-CSS      2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-XML      2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Text     1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Python   16 hrs 35 mins  ███████████░░░░░░░░░░░░░░   44.27 % 
+Java     15 hrs 2 mins   ██████████░░░░░░░░░░░░░░░   40.13 % 
+CSS      2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+XML      1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Text     1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 <!--END_SECTION:waka-->
