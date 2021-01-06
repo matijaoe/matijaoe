@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-Java     7 hrs 46 mins   █████████████████░░░░░░░░   68.06 % 
-Python   2 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.03 % 
-CSS      24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-SQL      24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-JSON     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Java         5 hrs 35 mins   ████████████████▒░░░░░░░░   64.86 % 
+Python       2 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   29.14 % 
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+SQL          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
