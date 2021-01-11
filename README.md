@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
-Java         7 hrs 37 mins   ████████████████████████▒   97.83 % 
-Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Java         4 hrs 54 mins   ████████████████████████▒   96.73 % 
+Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
