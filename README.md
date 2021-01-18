@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
 Java         7 hrs 6 mins    ███████████████████████▓░   94.70 % 
 SQL          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
