@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
 Python       6 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   39.74 % 
 Java         5 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.64 % 
