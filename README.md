@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 <img src='https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif'>
 
 <!--START_SECTION:waka-->
+```text
+Week: 03 February, 2021 - 10 February, 2021
+
+JavaScript   10 hrs 20 mins  ████████░░░░░░░░░░░░░░░░░   32.09 % 
+HTML         8 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
+Vue.js       5 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
+CSS          3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Java         2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+```
 <!--END_SECTION:waka-->
