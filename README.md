@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ```text
 Week: 05 February, 2021 - 12 February, 2021
 
-JavaScript   10 hrs 20 mins  ████████░░░░░░░░░░░░░░░░░   32.09 % 
-HTML         8 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
-Vue.js       5 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
-CSS          3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Java         2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Vue.js       12 hrs 8 mins   █████████▓░░░░░░░░░░░░░░░   38.51 % 
+JavaScript   9 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.94 % 
+HTML         6 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+CSS          2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JSON         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 <!--END_SECTION:waka-->
