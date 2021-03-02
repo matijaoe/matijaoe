@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
+Week: 22 February, 2021 - 01 March, 2021
 
-Vue.js       19 hrs 52 mins  ██████████████████▓░░░░░░   75.06 % 
-JavaScript   5 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-HTML         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Vue.js       16 hrs 39 mins  ███████████████████▓░░░░░   78.56 % 
+JavaScript   4 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.94 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
