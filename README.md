@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 ```text
 Week: 01 March, 2021 - 08 March, 2021
 
-Vue.js       10 hrs 39 mins  ██████████▒░░░░░░░░░░░░░░   41.91 % 
-HTML         7 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.91 % 
-JavaScript   5 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.79 % 
-JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-CSS          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Vue.js       14 hrs 1 min    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.99 % 
+HTML         8 hrs 9 mins    ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.67 % 
+JavaScript   3 hrs 56 mins   ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.34 % 
+CSS          29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.82 % 
+JSON         29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.81 % 
 ```
 <!--END_SECTION:waka-->
