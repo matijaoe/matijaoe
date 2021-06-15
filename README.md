@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 06 June, 2021 - 13 June, 2021
+Week: 07 June, 2021 - 14 June, 2021
 
 Vue.js       24 hrs 56 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.21 % 
 JavaScript   1 hr 28 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.18 % 
