@@ -47,8 +47,6 @@ Here are some ideas to get you started:
   <br />
 </p>
 
-
-
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
@@ -61,4 +59,7 @@ JSON         6 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Docker       5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.22 % 
 ```
 <!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@mat2ja/28fc5b04-a32d-45c6-ab90-38901e4f9b47.svg"></embed></figure>
+
 
