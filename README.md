@@ -63,3 +63,12 @@ Docker       5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--<p>
   <img src="https://wakatime.com/share/@mat2ja/9b7d27c9-27c9-447b-ae82-a196bbb2539e.svg" height="500">
 </p>-->
+
+<br />
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mat2ja&hide_border=true&theme=jolly&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mat2ja&show_icons=true&count_private=true&include_all_commits=true&hide=issues,prs&hide_border=true&theme=jolly&hide_title=true)
+
+
+
