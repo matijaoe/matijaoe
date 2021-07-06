@@ -60,6 +60,6 @@ Docker       5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-<p>
+<!--<p>
   <img src="https://wakatime.com/share/@mat2ja/9b7d27c9-27c9-447b-ae82-a196bbb2539e.svg" height="500">
-</p>
+</p>-->
