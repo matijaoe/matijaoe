@@ -1,6 +1,6 @@
-Current job uses GitLab so tough luck
+    ☁️ Current job uses GitLab so tough luck
 
-Currently studying Node / Typescript / Solidity
+    🌱 Currently learning Node / Mongo / Solidity 
 
 <!--
 **Mat2ja/Mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
