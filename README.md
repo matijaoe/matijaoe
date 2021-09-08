@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />  
-  <img alt="Express" src="https://img.shields.io/badge/-Express-fff?style=flat-square&logo=express&logoColor=black" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <br />
