@@ -1,6 +1,6 @@
     🌿 Current job uses GitLab so tough luck
 
-    🌱 Currently learning Node / Solidity 
+    🌱 Learning Node / Solidity 
     
     🔭 Next are TypeScript, React, Nest.js 
 
