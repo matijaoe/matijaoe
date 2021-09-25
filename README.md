@@ -1,9 +1,7 @@
     🌿 Current job uses GitLab so tough luck
 
-    🌱 Learning React (and Solidity from time to time) 
+    🌱 Learning Typescript / React (and Solidity from time to time) 
     
-    🔭 Next are TypeScript, Nest.js 
-
 <!--
 **Mat2ja/Mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
