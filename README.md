@@ -79,7 +79,7 @@ JSON         1 hr 15 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br />
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mat2ja&hide_border=true&theme=jolly&layout=compact)
+<!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mat2ja&hide_border=true&theme=jolly&layout=compact)-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mat2ja&show_icons=true&count_private=true&include_all_commits=true&hide=issues,prs&hide_border=true&theme=jolly&hide_title=true)
 
