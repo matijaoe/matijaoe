@@ -1,5 +1,8 @@
-🌱 Current college study: Advanced mySQL, Algorithms in Python, Web Design, Angua 
-🌱 Personal study: Typescript, Vue Composition API
+🌲️ Current college study: Advanced mySQL, Algorithms in Python, Web Design, Angular & Node
+
+🌱️ Personal study: Typescript, Vue Composition API
+    
+<br />   
     
 <!--
 **Mat2ja/Mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
