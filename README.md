@@ -1,4 +1,5 @@
-🌱 Currently studying up on Typescript & Vue Composition API (with some Solidity here and there) 
+🌱 Current college study: Advanced mySQL, Algorithms in Python, Web Design, Angua 
+🌱 Personal study: Typescript, Vue Composition API
     
 <!--
 **Mat2ja/Mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<h3>🌞 Daily stack</h3>
+<h4>🌞 Daily stack 👉️ Frontend </h3>
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<h3>🌙 Secondary stack</h3>
+<h4>🌝️ Secondary stack 👉️ Backend</h3>
 <p>
   <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white" />  
   <img alt="Express" src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white" />
@@ -60,10 +61,9 @@ Here are some ideas to get you started:
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <br/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<h3>⛅ Other stuff</h3>
+<h4>⛅ Other stuff</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
