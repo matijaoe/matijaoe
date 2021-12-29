@@ -1,6 +1,10 @@
 🌲️ Current college study: Advanced mySQL, Algorithms in Python, Web Design, Angular & Node
 
-🌱️ Personal study: React, TypeScript, Bitcoin
+🌱️ Personal study:
+<br/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+     <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />  
     
 <!--
 **Mat2ja/Mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
