@@ -6,7 +6,8 @@
 <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />  
 </div>
 
-### 🌲️ Current college study: Advanced mySQL, Algorithms in Python, Web Design, Angular & Node
+### 🌲️ Current college study: 
+Advanced mySQL, Algorithms in Python, Web Design, Angular & Node
 
 ---
     
