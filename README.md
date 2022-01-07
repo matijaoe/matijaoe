@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-### 🌞 Daily stack × Frontend
+### 🌞 Frontend
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
