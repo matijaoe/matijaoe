@@ -129,15 +129,22 @@ Vue.js       30 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br />
 
-<!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mat2ja&hide_border=true&theme=jolly&layout=compact)-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mat2ja&show_icons=true&count_private=true&include_all_commits=true&hide=issues,prs&hide_border=true&theme=jolly&hide_title=true)
+
+<a href="https://github.com/MatijaNovosel/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=github_dark&layout=compact&langs_count=8&hide_title=true" />
+</a>
+<a href="https://github.com/MatijaNovosel/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mat2ja&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&layout=compact&hide_rank=true&hide_title=true" />
+</a>
+
 
 
 
 #### ✌️ Find me on
 
-<a href="https://www.linkedin.com/in/matijao/" target="_blank">
+<div>
+    <a href="https://www.linkedin.com/in/matijao/" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://angel.co/u/matija-osrecki-1" target="_blank">
@@ -146,6 +153,6 @@ Vue.js       30 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://twitter.com/matijao_" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-
+</div>
 
 
