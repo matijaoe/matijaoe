@@ -3,11 +3,7 @@
 <div>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />  
 </div>
-
-### 🌲️ Current college study: 
-Advanced mySQL, Algorithms in Python, Web Design, Angular & Node
 
 ---
     
@@ -64,8 +60,8 @@ Here are some ideas to get you started:
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="Bitcoin" src="https://img.shields.io/badge/-stacking%20sats-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />  
 </p>
+
 
 ### ☁ Places I deploy to
 <div>
@@ -95,6 +91,13 @@ Here are some ideas to get you started:
     <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </div>
+
+
+### 🛠️ Other
+<div>
+    <img alt="Bitcoin" src="https://img.shields.io/badge/-stacking%20sats-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" /> 
+    <img alt="Ethereum" src="https://img.shields.io/badge/Saving%20gas-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> 
+</div> 
 
 
 <br/>
