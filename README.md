@@ -132,10 +132,10 @@ Vue.js       30 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <a href="https://github.com/MatijaNovosel/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=github_dark&layout=compact&langs_count=8&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=graywhite&layout=compact&langs_count=10&hide_title=true" />
 </a>
 <a href="https://github.com/MatijaNovosel/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mat2ja&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&layout=compact&hide_rank=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mat2ja&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=graywhite&layout=compact&hide_rank=true&hide_title=true" />
 </a>
 
 
