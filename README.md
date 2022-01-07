@@ -1,6 +1,6 @@
     🔭️  Software Developer @ Three of Them Ltd.
 
-    🛴️  Student @ Zagreb University of Applied Sciences
+    🛴️  Software Engineering Student @ Zagreb University of Applied Sciences
     
     Besides that, I code, read, study, workout & crypto.
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 #### ☁ Places I deploy to
 <div>
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img alt="Surge" src="https://img.shields.io/badge/-Surge-def1e7?style=for-the-badge&logo=vercel&logoColor=333333" />
+    <img alt="Surge" src="https://img.shields.io/badge/-Surge-def1e7?style=for-the-badge&logoColor=333333" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
