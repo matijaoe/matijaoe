@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
   <br/>
-  <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />  
+  <img alt="Bitcoin" src="https://img.shields.io/badge/-stacking%20sats-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />  
 </p>
 
 
