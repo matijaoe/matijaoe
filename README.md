@@ -1,3 +1,10 @@
+    🔭️  Software Developer @ Three of Them Ltd.
+
+    🛴️  Student @ Zagreb University of Applied Sciences
+    
+    Besides that, I code, read, study, workout & crypto.
+
+
 #### 🌱️ Currently studying
 
 <div>
@@ -127,7 +134,6 @@ Vue.js       30 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mat2ja&show_icons=true&count_private=true&include_all_commits=true&hide=issues,prs&hide_border=true&theme=jolly&hide_title=true)
 
 
-<br />
 
 #### ✌️ Find me on
 
