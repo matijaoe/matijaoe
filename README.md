@@ -1,8 +1,8 @@
-### 🌱️ Currently studying
+#### 🌱️ Currently studying
 
 <div>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 ---
@@ -53,38 +53,39 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### ⛅ Stuff I occasionaly work with
+### ⛅ Stuff I occasionally work with
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
 
-### ☁ Places I deploy to
+#### ☁ Places I deploy to
 <div>
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img alt="Surge" src="https://img.shields.io/badge/-Surge-def1e7?style=for-the-badge&logo=vercel&logoColor=333333" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
-### 🪵️ Editors I use
+#### 🛠️ Editors I use
 <div>
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
 
-### 🐧️ OS
+#### 🐧️ Systems I operate on
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
 </div>
 
 
-### 🎒️ Versioning my control with
+#### 🎒️ Versioning my control with
 <div>
     <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -93,16 +94,16 @@ Here are some ideas to get you started:
 </div>
 
 
-### 🛠️ Other
+#### 🪵️ Other
 <div>
     <img alt="Bitcoin" src="https://img.shields.io/badge/-stacking%20sats-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" /> 
     <img alt="Ethereum" src="https://img.shields.io/badge/Saving%20gas-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> 
 </div> 
 
 
-<br/>
+---
 
-## 📊 Weekly development breakdown
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 Week: 31 December, 2021 - 06 January, 2022
@@ -124,6 +125,21 @@ Vue.js       30 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mat2ja&hide_border=true&theme=jolly&layout=compact)-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mat2ja&show_icons=true&count_private=true&include_all_commits=true&hide=issues,prs&hide_border=true&theme=jolly&hide_title=true)
+
+
+<br />
+
+#### ✌️ Find me on
+
+<a href="https://www.linkedin.com/in/matijao/" target="_blank">
+    <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://angel.co/u/matija-osrecki-1" target="_blank">
+    <img alt="angeliist" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+</a>
+<a href="https://twitter.com/matijao_" target="_blank">
+    <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
 
 
 
