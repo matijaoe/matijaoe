@@ -8,6 +8,7 @@
 #### 🌱️ Currently studying
 
 <div>
+    <img alt="Nuxt 3" src="https://img.shields.io/badge/-Nuxt%203-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
