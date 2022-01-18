@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 ---
 
 <!--### 📊 Weekly development breakdown-->
-<!--REMOVE THIS START_SECTION:waka-->
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--<p>
