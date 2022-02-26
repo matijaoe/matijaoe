@@ -44,7 +44,8 @@ Here are some ideas to get you started:
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <br />
+  <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ⛅ Stuff I occasionally work with
+### ⛅ I occasionally work with
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -73,13 +74,6 @@ Here are some ideas to get you started:
 
 ---
 
-#### ☁ Places I deploy to
-<div>
-    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img alt="Surge" src="https://img.shields.io/badge/-Surge-def1e7?style=for-the-badge&logoColor=333333" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</div>
-
 #### 🛠️ Editors I use
 <div>
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -87,23 +81,14 @@ Here are some ideas to get you started:
 </div>
 
 
-#### 🐧️ Systems I operate on
+#### 🐧️ OS
 <div>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
 </div>
 
 
-#### 🎒️ Versioning my control with
-<div>
-    <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
-</div>
-
-
-#### 🪵️ Other
+#### 🪵️ Crypto
 <div>
     <img alt="Bitcoin" src="https://img.shields.io/badge/-stacking%20sats-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" /> 
     <img alt="Ethereum" src="https://img.shields.io/badge/Saving%20gas-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> 
