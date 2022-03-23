@@ -149,6 +149,9 @@ Twig         5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://twitter.com/matijao_" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
+<a href="https://www.goodreads.com/user/matijao" target="_blank">
+    <img alt="goodreads" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
+</a>
 </div>
 
 
