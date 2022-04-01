@@ -13,10 +13,9 @@
 #### 🌱️ Currently studying
 
 <div>
-    <img alt="Nuxt 3" src="https://img.shields.io/badge/-Nuxt%203-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-    <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />  
+    <img alt="Nuxt 3" src="https://img.shields.io/badge/-Nuxt%203-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />  
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img alt="Nest.j" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />  
 </div>
 
@@ -51,6 +50,7 @@ Here are some ideas to get you started:
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <br />
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
