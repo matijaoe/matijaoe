@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white" />  
   <img alt="Express" src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <br />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />  
