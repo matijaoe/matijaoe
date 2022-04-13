@@ -85,19 +85,14 @@ Here are some ideas to get you started:
 
 ---
 
-#### 🛠️ Editors I use
+#### 🛠️ Environment
 <div>
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+ <br />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
 </div>
-
-
-#### 🐧️ OS
-<div>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
-</div>
-
 
 #### 🪵️ Crypto
 <div>
