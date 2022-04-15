@@ -149,6 +149,9 @@ JSON         44 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://twitter.com/matijao_" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
+    <a href="https://wakatime.com/@matijao" target="_blank">
+    <img alt="wakatime" src="https://img.shields.io/badge/wakatime-gray.svg?style=for-the-badge&logo=wakatime&logoColor=white" />
+</a>
 </div>
 
 
