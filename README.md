@@ -13,7 +13,7 @@
 #### 🌱️ Currently studying
 
 <div>
-    <img alt="Nuxt 3" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />  
+    <img alt="Nuxt 3" src="https://img.shields.io/badge/Nuxt%203-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />  
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
