@@ -155,8 +155,8 @@ Other        46 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://twitter.com/matijao_" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-    <a href="https://wakatime.com/@matijao" target="_blank">
-    <img alt="wakatime" src="https://img.shields.io/badge/wakatime-gray.svg?style=for-the-badge&logo=wakatime&logoColor=white" />
+<a href="https://wakatime.com/@matijao" target="_blank">
+    <img alt="wakatime" src="https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=for-the-badge" />
 </a>
 </div>
 
