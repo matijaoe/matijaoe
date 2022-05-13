@@ -15,7 +15,6 @@
 <div>
     <img alt="Nuxt 3" src="https://img.shields.io/badge/Nuxt%203-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />  
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
@@ -56,6 +55,7 @@ Here are some ideas to get you started:
   <img alt="Windi CSS" src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <br />
  
@@ -92,11 +92,12 @@ Here are some ideas to get you started:
 <div>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img alt="GitLab" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />  
+    <br />
+    <img alt="Mac" src="https://img.shields.io/badge/Mac-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
-    <br />
-     <img alt="GitHub" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img alt="GitLab" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <br />
 </div>
 
@@ -105,7 +106,6 @@ Here are some ideas to get you started:
     <img alt="Bitcoin" src="https://img.shields.io/badge/-stacking%20sats-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" /> 
     <img alt="Ethereum" src="https://img.shields.io/badge/Saving%20gas-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> 
 </div> 
-
 
 ---
 
