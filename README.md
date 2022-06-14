@@ -15,7 +15,6 @@
 <div>
     <img alt="Nuxt 3" src="https://img.shields.io/badge/Nuxt%203-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />  
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
 ---
@@ -149,7 +148,7 @@ TypeScript       1 hr 12 mins    ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <a href="https://www.linkedin.com/in/matijao/" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://angel.co/u/matija-osrecki-1" target="_blank">
+<a href="https://angel.co/u/matijao" target="_blank">
     <img alt="angeliist" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
 <a href="https://twitter.com/matijao_" target="_blank">
