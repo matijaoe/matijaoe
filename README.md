@@ -125,10 +125,10 @@ YAML             51 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <a href="https://github.com/mat2ja/">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=moltack&layout=compact&langs_count=14&hide_title=true&card_width=300px" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=github_dark&layout=compact&langs_count=14&hide_title=true&card_width=300px" />
 </a>
 <a href="https://github.com/mat2ja/">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat2ja&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=moltack&layout=compact&hide_rank=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mat2ja&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&layout=compact&hide_rank=true&hide_title=true" />
 </a>
 
 
