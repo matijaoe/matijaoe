@@ -8,10 +8,9 @@
 <p>
   <img width="400" src="https://media.giphy.com/media/PZ9OkwDtk0Ex2/giphy.gif">
 </p>
----
     
 <!--
-**Mat2ja/Mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mat2ja/mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
