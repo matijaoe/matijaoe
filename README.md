@@ -8,15 +8,6 @@
 <p>
   <img width="400" src="https://media.giphy.com/media/PZ9OkwDtk0Ex2/giphy.gif">
 </p>
-
-
-#### 🌱️ Currently studying
-
-<div>
-    <img alt="Nuxt 3" src="https://img.shields.io/badge/Nuxt%203-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />  
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</div>
-
 ---
     
 <!--
