@@ -1,8 +1,8 @@
-    🔭️  Software Developer @ Three of Them Ltd.
-
-    🍎  Software Engineering Student @ Zagreb University of Applied Sciences
-    
-    Besides that, I code, read, study, workout & crypto.
+> 🔭️  Software Developer @ Three of Them Ltd.
+>
+> 💥  Software Engineering Student @ Zagreb University of Applied Sciences
+>
+> Besides that, I code, read, study, workout & crypto.
 
 
 <p>
