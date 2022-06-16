@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Matija
 
-     🔭️ Software Developer @ Three of Them Ltd.
+     🔭️ Frontend Developer @ Three of Them Ltd.
    
      🙆🏻‍♂️ Software Engineering Student @ Zagreb University of Applied Sciences
 
