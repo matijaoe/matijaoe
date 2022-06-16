@@ -1,8 +1,10 @@
-> 🔭️  Software Developer @ Three of Them Ltd.
->
-> 💥  Software Engineering Student @ Zagreb University of Applied Sciences
->
-> Besides that, I code, read, study, workout & crypto.
+## Hi 👋, I'm Matija
+
+     🔭️ Software Developer @ Three of Them Ltd.
+   
+     🙆🏻‍♂️ Software Engineering Student @ Zagreb University of Applied Sciences
+
+     Basically, I code, read, study, workout & crypto.
 
 
 <p>
@@ -41,11 +43,9 @@ Here are some ideas to get you started:
   <br />
   <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Windi CSS" src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white" />
+  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <br />
  
   
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ### 🌝️ Backend
 <p>
+  <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />  
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <br />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -71,6 +71,9 @@ Here are some ideas to get you started:
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <br />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
 </p>
 
@@ -87,7 +90,6 @@ Here are some ideas to get you started:
     <img alt="Mac" src="https://img.shields.io/badge/Mac-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
-    <br />
 </div>
 
 #### 🪵️ Crypto
