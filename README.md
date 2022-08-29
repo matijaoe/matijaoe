@@ -4,8 +4,6 @@
    
      🙆🏻‍♂️ Software Engineering Student @ Zagreb University of Applied Sciences
 
-     Basically, I code, read, study, workout & crypto.
-
 
 <p>
   <img width="400" src="https://media.giphy.com/media/PZ9OkwDtk0Ex2/giphy.gif">
