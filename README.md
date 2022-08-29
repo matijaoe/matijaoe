@@ -26,20 +26,7 @@ Here are some ideas to get you started:
 
 -->
 
-
-### 💚 Fav stack
-<p>
-     <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
-     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-     <img alt="Uno CSS" src="https://img.shields.io/badge/unocss-121212.svg?style=for-the-badge&logo=windi-css&logoColor=white" />
-     <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-     <img alt="Query" src="https://img.shields.io/badge/Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> 
-     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> 
-</p>
-
 ---
-
 ### 🌞 Frontend
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
@@ -52,9 +39,11 @@ Here are some ideas to get you started:
   <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Windi CSS" src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white" />
+  <img alt="Uno CSS" src="https://img.shields.io/badge/unocss-121212.svg?style=for-the-badge&logoColor=white" />
+  <br />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
   <img alt="Query" src="https://img.shields.io/badge/Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />  
 </p>
 
@@ -71,7 +60,7 @@ Here are some ideas to get you started:
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ⛅ Have worked with
+### ⛅ Have some experience with
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -83,12 +72,24 @@ Here are some ideas to get you started:
 
 #### 🌳️ Environment
 <div>
+     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
      <img alt="Mac" src="https://img.shields.io/badge/Mac-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
      <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" />
-     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+     <img alt="Bitcoin" src="https://img.shields.io/badge/sats-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" /> 
 </div>
+ 
+
+#### 💚 Fav stack
+<p>
+     <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
+     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+     <img alt="Uno CSS" src="https://img.shields.io/badge/unocss-121212.svg?style=for-the-badge&logoColor=white" />
+     <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+     <img alt="Query" src="https://img.shields.io/badge/Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> 
+     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> 
+</p> 
  
 ---
 
