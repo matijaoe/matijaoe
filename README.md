@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Matija
 
-     🔭️ Frontend Developer @ Three of Them Ltd.
+     🍀️ Frontend Developer @ Four of Them Ltd.
    
-     🙆🏻‍♂️ Software Engineering Student @ Zagreb University of Applied Sciences
+     🙆🏻‍♂️ Software Engineering Student @ Zagreb University of Applied Sciences (TVZ)
 
 
 <p>
@@ -41,9 +41,11 @@ Here are some ideas to get you started:
   <br />
   <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img alt="Windi CSS" src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img alt="Query" src="https://img.shields.io/badge/Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <br />
  
   
@@ -62,27 +64,24 @@ Here are some ideas to get you started:
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ⛅ Have some experience with
+### ⛅ Have worked with
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
 
 #### 🌳️ Environment
 <div>
-     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
      <img alt="Mac" src="https://img.shields.io/badge/Mac-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-     <img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+     <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" />
+     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
 #### 🪵️ Crypto
