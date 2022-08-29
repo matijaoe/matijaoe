@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Matija
 
-     🍀️ Frontend Developer @ Four of Them Ltd.
-   
-     🙆🏻‍♂️ Software Engineering Student @ Zagreb University of Applied Sciences (TVZ)
+     🍀️ Frontend Developer @ Four of them Ltd.
+
+     I code, read, workout & bitcoin.
 
 
 <p>
@@ -91,13 +91,7 @@ Here are some ideas to get you started:
      <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
-
-#### 🪵️ Crypto
-<div>
-    <img alt="Bitcoin" src="https://img.shields.io/badge/-stacking%20sats-F5e7b7?style=for-the-badge&logo=bitcoin&logoColor=F7931A" /> 
-    <img alt="Ethereum" src="https://img.shields.io/badge/Saving%20gas-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> 
-</div> 
-
+ 
 ---
 
 <!--### 📊 Weekly development breakdown-->
@@ -127,8 +121,7 @@ Other        40 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="https://github-readme-stats.vercel.app/api?username=mat2ja&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=shades-of-purple&layout=compact&hide_rank=true&hide_title=true" />
 </a>
 
-
-
+---
 
 #### ✌️ Find me on
 
