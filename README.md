@@ -1,13 +1,11 @@
-## Hi 👋, I'm Matija
+<p>
+  <img width="400" src="https://media.giphy.com/media/PZ9OkwDtk0Ex2/giphy.gif">
+</p>
 
      🍀️ Frontend Developer @ Four of them Ltd.
 
      I code, read, workout & bitcoin.
 
-
-<p>
-  <img width="400" src="https://media.giphy.com/media/PZ9OkwDtk0Ex2/giphy.gif">
-</p>
     
 <!--
 **mat2ja/mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
