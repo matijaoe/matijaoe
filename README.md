@@ -1,8 +1,13 @@
-<p>
-  <img width="400" src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif">
-</p>
 
      🍀️ Frontend Developer @ Four of them Ltd.
+     
+<div>
+<img src="https://c.tenor.com/wD-FRmEEJ8YAAAAd/pat-a-mat-a-je-to.gif" height="260" style="display:inline-block"/>
+<img src="https://thumbs.gfycat.com/GleamingMadeupCrayfish-max-1mb.gif" height="260" />
+</div>
+
+
+
 
 <!--
 **mat2ja/mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +28,7 @@ Here are some ideas to get you started:
 
 -->
 
----
-### 🌞 Front
+## 🌞 Front
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
@@ -40,7 +44,7 @@ Here are some ideas to get you started:
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
 
-### 🌝️ Back
+## 🌝️ Back
 <p>
   <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />  
@@ -53,7 +57,7 @@ Here are some ideas to get you started:
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ⛅ Misc
+## ⛅ Misc
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -62,19 +66,6 @@ Here are some ideas to get you started:
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-
-### 💚 Fav stack
-<p>
-     <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
-     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-     <img alt="Uno CSS" src="https://img.shields.io/badge/unocss-121212.svg?style=for-the-badge&logoColor=white" />
-     <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-     <img alt="Query" src="https://img.shields.io/badge/Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> 
-     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> 
-</p> 
- 
 ---
 
 <!--### 📊 Weekly development breakdown-->
@@ -95,7 +86,6 @@ Other        19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </p>-->
 
 <br />
-
 
 <a href="https://github.com/mat2ja/">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=shades-of-purple&layout=compact&langs_count=14&hide_title=true&card_width=300px" />
