@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 -->
 
-## 🌞 Front
+<br />
+
+### 🌞 Front
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
@@ -44,12 +46,11 @@ Here are some ideas to get you started:
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
 
-## 🌝️ Back
+### 🌝️ Back
 <p>
   <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />  
   <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <br />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />  
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-## ⛅ Misc
+### ⛅ The rest
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -66,7 +67,11 @@ Here are some ideas to get you started:
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+<br />
+
 ---
+
+<br />
 
 <!--### 📊 Weekly development breakdown-->
 <!--START_SECTION:waka-->
@@ -107,6 +112,9 @@ Other        19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </a>
 <a href="https://twitter.com/matijao_" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.goodreads.com/matijao" target="_blank">
+    <img alt="goodreads" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" />
 </a>
 <a href="https://wakatime.com/@matijao" target="_blank">
     <img alt="wakatime" src="https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=for-the-badge" />
