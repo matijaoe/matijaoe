@@ -1,5 +1,5 @@
 
-     🍀️ Frontend Developer @ Four of them Ltd.
+     🍀️ Frontend Developer @ Four of them LLC.
      
 <div>
 <img src="https://c.tenor.com/wD-FRmEEJ8YAAAAd/pat-a-mat-a-je-to.gif" height="260" style="display:inline-block"/>
