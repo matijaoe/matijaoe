@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 #### 🏗️ What I am up to these days?
-- Buidling my college final project - a platform for financial independence (Nuxt 3, UnoCSS, Tanstack Query, Prisma)
+- Building my college final project - a platform for financial independence (Nuxt 3, UnoCSS, Tanstack Query, Prisma)
 - Finally building my portfolio site (Nuxt 3, UnoCSS)
 - Exploring Svelte
 
