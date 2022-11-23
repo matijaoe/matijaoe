@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 #### 🏗️ What I am up to these days?
 - Building my college final project - a platform for financial independence (Nuxt 3, UnoCSS, Tanstack Query, Prisma)
-- Finally building my portfolio site (Nuxt 3, UnoCSS)
+- Building my portfolio site (Nuxt 3, UnoCSS, GSAP)
 - Exploring Svelte
 
 ---
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <br />
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="UnoCSS" src="https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white" />
-  <img alt="Scss" src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img alt="Query" src="https://img.shields.io/badge/Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
