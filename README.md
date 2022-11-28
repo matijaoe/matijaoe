@@ -95,7 +95,7 @@ Other        44 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <br />
 
 <a href="https://github.com/mat2ja/">
- <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=shades-of-purple&layout=compact&langs_count=10&hide_title=true" />
+ <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=shades-of-purple&layout=compact&langs_count=8&hide_title=true" />
 </a>
 <a href="https://github.com/mat2ja/">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mat2ja&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=shades-of-purple&layout=compact&hide_rank=true&hide_title=true" />
