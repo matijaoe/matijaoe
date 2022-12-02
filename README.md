@@ -28,15 +28,6 @@ Here are some ideas to get you started:
 
 -->
 
----
-
-#### 🏗️ What I am up to these days?
-- Building my college final project - a platform for financial independence (Nuxt 3, UnoCSS, Tanstack Query, Prisma)
-- Building my portfolio site (Nuxt 3, UnoCSS, GSAP)
-- Exploring Svelte
-
----
-
 
 ### 🌞 Front
 <p>
