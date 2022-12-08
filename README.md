@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <br />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" />  
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-5967D8?style=for-the-badge&logo=Prisma&logoColor=white" />  
   <img alt="Nest.js" src="https://img.shields.io/badge/nest-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />  
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
