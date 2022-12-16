@@ -58,15 +58,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
-Total Time: 21 hrs 22 mins
+Total Time: 23 hrs 52 mins
 
-TypeScript   12 hrs 34 mins  ██████████████▓░░░░░░░░░░   58.80 %
-Vue.js       5 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
-JSON         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-YAML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+TypeScript   16 hrs 23 mins  █████████████████░░░░░░░░   68.63 %
+Vue.js       4 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+YAML         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JavaScript   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Svelte       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
