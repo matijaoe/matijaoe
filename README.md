@@ -1,13 +1,10 @@
 
-     🍀️ Frontend Developer @ Four of them LLC
+     🍀️ Frontend Developer at Four of them LLC
      
 <div>
 <img src="https://c.tenor.com/wD-FRmEEJ8YAAAAd/pat-a-mat-a-je-to.gif" height="260" style="display:inline-block"/>
 <img src="https://thumbs.gfycat.com/GleamingMadeupCrayfish-max-1mb.gif" height="260" />
 </div>
-
-
-
 
 <!--
 **mat2ja/mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,9 +89,6 @@ Other        1 hr 20 mins    ▓░░░░░░░░░░░░░░░░
 <div>
     <a href="https://www.linkedin.com/in/matijao/" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://angel.co/u/matijao" target="_blank">
-    <img alt="angeliist" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
 <a href="https://twitter.com/matijao_" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
