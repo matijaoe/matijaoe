@@ -43,12 +43,12 @@ Here are some ideas to get you started:
   <br />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-5967D8?style=for-the-badge&logo=Prisma&logoColor=white" />  
   <img alt="Nest.js" src="https://img.shields.io/badge/nest-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="Node" src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />  
+  <img alt="Node" src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Deno" src="https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white" />  
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4C8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
 ---
 
 <!--### 📊 Weekly development breakdown-->
