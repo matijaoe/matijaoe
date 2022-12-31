@@ -2,8 +2,8 @@
      🍀️ Frontend Developer at Four of them LLC
      
 <div>
-<img src="https://c.tenor.com/wD-FRmEEJ8YAAAAd/pat-a-mat-a-je-to.gif" height="260" style="display:inline-block"/>
-<img src="https://thumbs.gfycat.com/GleamingMadeupCrayfish-max-1mb.gif" height="260" />
+<img src="https://c.tenor.com/wD-FRmEEJ8YAAAAd/pat-a-mat-a-je-to.gif" height="200" style="display:inline-block"/>
+<img src="https://thumbs.gfycat.com/GleamingMadeupCrayfish-max-1mb.gif" height="200" />
 </div>
 
 <!--
