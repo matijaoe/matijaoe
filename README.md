@@ -104,7 +104,9 @@ Other        2 hrs 37 mins   █▒░░░░░░░░░░░░░░░
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mat2ja&right_color=lightgrey)
+<!--
 [![](https://visitcount.itsvg.in/api?id=mat2ja&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+-->
 
 ---
 
