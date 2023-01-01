@@ -102,15 +102,14 @@ Other        2 hrs 52 mins   █▓░░░░░░░░░░░░░░░
 
 <br />
 
-old:
-<br/>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mat2ja&right_color=lightgrey)
 
-
-testing out (since Dec 31st):
+<!--
+(since Dec 31st):
 <br/>
 [![](https://visitcount.itsvg.in/api?id=mat2ja&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
+-->
 ---
 
      🗿 Be tolerant with others and strict with yourself.
