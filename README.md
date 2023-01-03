@@ -1,11 +1,4 @@
-
-     🍀️ Frontend Developer at Four of them LLC
      
-<div>
-<img src="https://c.tenor.com/wD-FRmEEJ8YAAAAd/pat-a-mat-a-je-to.gif" height="220" style="display:inline-block"/>
-<img src="https://thumbs.gfycat.com/GleamingMadeupCrayfish-max-1mb.gif" height="220" />
-</div>
-
 <!--
 **mat2ja/mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
