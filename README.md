@@ -28,18 +28,17 @@ Here are some ideas to get you started:
   <img alt="React" src="https://img.shields.io/badge/react-%2323272F.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <br />
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="UnoCSS" src="https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  
   <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />
   <br />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-5967D8?style=for-the-badge&logo=Prisma&logoColor=white" />  
-  <img alt="Nest.js" src="https://img.shields.io/badge/nest-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white" />  
+  <img alt="Nest.js" src="https://img.shields.io/badge/nest-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-4C8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -85,24 +84,22 @@ Other        9 hrs 14 mins   ███████▓░░░░░░░░░
 <a href="https://twitter.com/matijao_" target="_blank">
     <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
+<a href="https://elk.zone/fosstodon.org/@matijao" target="_blank">
+    <img alt="mastodon" src="https://img.shields.io/badge/-MASTODON-%23171717?style=for-the-badge&logo=mastodon&logoColor=ea9e44" />
+</a>
 <a href="https://www.goodreads.com/matijao" target="_blank">
     <img alt="goodreads" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" />
 </a>
 <a href="https://wakatime.com/@matijao" target="_blank">
     <img alt="wakatime" src="https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=for-the-badge" />
 </a>
+
 </div>
 
-<br />
-
+<br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mat2ja&right_color=lightgrey)
 
-<!--
-(since Dec 31st):
-<br/>
-[![](https://visitcount.itsvg.in/api?id=mat2ja&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
--->
 ---
 
      🗿 Be tolerant with others and strict with yourself.
