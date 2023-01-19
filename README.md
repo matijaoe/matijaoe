@@ -48,13 +48,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-Total Time: 37 hrs
+Total Time: 29 hrs 41 mins
 
-Vue.js       13 hrs 20 mins  █████████░░░░░░░░░░░░░░░░   36.05 %
-TypeScript   8 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
-Other        6 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+Other        9 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   31.12 %
 ```
 
 <!--END_SECTION:waka-->
