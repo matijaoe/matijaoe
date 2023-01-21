@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
-Total Time: 24 hrs 7 mins
+Total Time: 25 hrs 49 mins
 
-Other        9 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   40.18 %
+Other        10 hrs 31 mins  ██████████▒░░░░░░░░░░░░░░   40.74 %
 ```
 
 <!--END_SECTION:waka-->
