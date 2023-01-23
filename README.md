@@ -1,25 +1,6 @@
-     
-<!--
-**mat2ja/mat2ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭  I'm currently looking for an opportunity to contribute to open-source in the Vue Ecosystem
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on vscode snippet extensions
-- 🌱 I’m currently learning Deno
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmat2ja%2Fhit-counter&count_bg=%232ECC71&title_bg=%2327AE60&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
--->
-
-
-### ⚡ Stack
+### My Stack
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
@@ -60,19 +41,6 @@ Other        10 hrs 20 mins  ███████████▓░░░░░
   <img src="https://wakatime.com/share/@mat2ja/9b7d27c9-27c9-447b-ae82-a196bbb2539e.svg" height="500">
 </p>-->
 
-<br />
-
-<a href="https://github.com/mat2ja/">
- <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=matijao&hide_border=true&theme=shades-of-purple&layout=compact&langs_count=8&hide_title=true" />
-</a>
-
-<!--
-<a href="https://github.com/mat2ja/">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mat2ja&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=shades-of-purple&layout=compact&hide_rank=true&hide_title=true" />
--->
-
-</a>
-
 ---
 
 #### ✌️ Find me on
@@ -95,10 +63,6 @@ Other        10 hrs 20 mins  ███████████▓░░░░░
 </a>
 
 </div>
-
-<br/>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mat2ja&right_color=lightgrey)
 
 ---
 
