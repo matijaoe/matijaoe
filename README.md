@@ -1,4 +1,4 @@
-🔭  I'm currently looking for an opportunity to contribute to open-source in the Vue Ecosystem
+🔭  I'm currently looking for an opportunity to contribute to the open-source community in the Vue Ecosystem
 
 ### My Stack
 <p>
@@ -36,10 +36,6 @@ Other        10 hrs 20 mins  ███████████▓░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<!--<p>
-  <img src="https://wakatime.com/share/@mat2ja/9b7d27c9-27c9-447b-ae82-a196bbb2539e.svg" height="500">
-</p>-->
 
 ---
 
