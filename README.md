@@ -69,10 +69,12 @@ Other        13 hrs 19 mins  ██▒░░░░░░░░░░░░░░
 </div>
 -->
 
+&nbsp;
+
 <p align="center">
   <samp>
     Be tolerant with others and strict with yourself.
   </samp>
 </p>
      
-
+&nbsp;
