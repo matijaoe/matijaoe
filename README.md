@@ -1,4 +1,10 @@
-🔭  I'm currently looking for an opportunity to contribute to the open-source community in the Vue Ecosystem
+
+### What am I up to these days?
+
+🏗️  Building out my portfolio site & brainstorming ideas
+
+🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem
+
 
 ### My Stack
 <p>
