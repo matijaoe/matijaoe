@@ -52,6 +52,13 @@ Other        1 hr 44 mins    ██░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<!--
+![](https://raw.githubusercontent.com/mat2ja/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mat2ja/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/mat2ja/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mat2ja/github-stats/master/generated/languages.svg#gh-light-mode-only)
+-->
 ---
 
 ### ✌️ Find me on
