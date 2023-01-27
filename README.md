@@ -40,7 +40,7 @@ What am I up to these days?
     <img src="https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,nodejs,deno,nest,postgres,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=prisma,nodejs,deno,nest,mysql,python" />
   </a>
 </p>
 
