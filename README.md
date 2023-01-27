@@ -12,8 +12,6 @@ What am I up to these days?
 🤿  Deep diving into Nuxt 3, UnoCSS & Vite
 ```
 
-## 🛠️ Stack
-
 <!--
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
@@ -37,8 +35,11 @@ What am I up to these days?
 </p>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite,prisma,nodejs,deno,nest,postgres,mysql,python)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite,prisma,nodejs,deno,nest,postgres,mysql,python&perline=7" />
+  </a>
+</p>
 
 <!--### 📊 Weekly development breakdown-->
 <!--START_SECTION:waka-->
