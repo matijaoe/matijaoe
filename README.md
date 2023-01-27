@@ -40,14 +40,14 @@ What am I up to these days?
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 25 January 2023
+From: 19 January 2023 - To: 26 January 2023
 
-Total Time: 20 hrs 11 mins
+Total Time: 23 hrs 5 mins
 
-Vue.js       5 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
-Twig         4 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-TypeScript   2 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Other        2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Vue.js       6 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   27.54 %
+Twig         6 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
+TypeScript   3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Other        1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
 ```
 
 <!--END_SECTION:waka-->
