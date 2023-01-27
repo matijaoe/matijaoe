@@ -7,7 +7,7 @@ What am I up to these days?
 
 🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem
 
-💡  Exploring Astro, Deno, zod, pnpm workspaces
+💡  Exploring Astro, Deno, zod, pnpm workspaces...
 
 🤿  Deep diving into Nuxt 3, UnoCSS & Vite
 ```
