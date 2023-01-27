@@ -65,7 +65,7 @@ Other        13 hrs 19 mins  ██▒░░░░░░░░░░░░░░
 -->
 ---
 
-### ✌️ Find me on
+#### ✌️ Find me on
 
 <div>
     <a href="https://www.linkedin.com/in/matijao/" target="_blank">
