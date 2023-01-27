@@ -7,7 +7,7 @@ What am I up to these days?
 
 🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem
 
-💡  Exploring Astro, Deno, zod, pnpm workspaces...
+💡  Exploring Astro, Deno, zod, pnpm workspaces... whatever crosses my mind
 
 🤿  Deep diving into Nuxt 3, UnoCSS & Vite
 ```
@@ -54,7 +54,7 @@ Other        1 hr 44 mins    ██░░░░░░░░░░░░░░░
 
 ---
 
-#### ✌️ Find me on
+### ✌️ Find me on
 
 <div>
     <a href="https://www.linkedin.com/in/matijao/" target="_blank">
@@ -72,7 +72,6 @@ Other        1 hr 44 mins    ██░░░░░░░░░░░░░░░
 <a href="https://wakatime.com/@matijao" target="_blank">
     <img alt="wakatime" src="https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=for-the-badge" />
 </a>
-
 </div>
 
 ---
