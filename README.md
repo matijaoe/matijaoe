@@ -37,7 +37,10 @@ What am I up to these days?
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite,prisma,nodejs,deno,nest,postgres,mysql,python&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma,nodejs,deno,nest,postgres,mysql,python" />
   </a>
 </p>
 
