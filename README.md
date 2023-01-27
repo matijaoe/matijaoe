@@ -35,8 +35,6 @@ What am I up to these days?
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
-
 <!--
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite,prisma,nodejs,deno,nest,postgres,mysql,python)](https://skillicons.dev)
 -->
