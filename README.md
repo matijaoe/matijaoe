@@ -1,12 +1,18 @@
+# Ayy 👋🏻
 
-### What am I up to these days?
+What am I up to these days?
 
+```
 🏗️  Building out my portfolio site & brainstorming ideas
 
 🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem
 
+💡  Exploring Astro, Deno, zod, pnpm workspaces
 
-### My Stack
+🤿  Deep diving into Nuxt 3, UnoCSS & Vite
+```
+
+## 🛠️ Stack
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
