@@ -14,6 +14,7 @@ What am I up to these days?
 
 ## 🛠️ Stack
 
+<!--
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
@@ -34,10 +35,10 @@ What am I up to these days?
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
-<!--
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite,prisma,nodejs,deno,nest,postgres,mysql,python)](https://skillicons.dev)
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite,prisma,nodejs,deno,nest,postgres,mysql,python)](https://skillicons.dev)
+
 
 <!--### 📊 Weekly development breakdown-->
 <!--START_SECTION:waka-->
@@ -63,29 +64,6 @@ Other        13 hrs 19 mins  ██▒░░░░░░░░░░░░░░
 </a>
 </div>
 -->
----
-
-#### ✌️ Find me on
-
-<div>
-    <a href="https://www.linkedin.com/in/matijao/" target="_blank">
-    <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/matijao_" target="_blank">
-    <img alt="twitter" src="https://img.shields.io/badge/twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://elk.zone/fosstodon.org/@matijao" target="_blank">
-    <img alt="mastodon" src="https://img.shields.io/badge/-MASTODON-%23171717?style=for-the-badge&logo=mastodon&logoColor=ea9e44" />
-</a>
-<a href="https://www.goodreads.com/matijao" target="_blank">
-    <img alt="goodreads" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" />
-</a>
-<a href="https://wakatime.com/@matijao" target="_blank">
-    <img alt="wakatime" src="https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=for-the-badge" />
-</a>
-</div>
-
----
 
      🗿 Be tolerant with others and strict with yourself.
 
