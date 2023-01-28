@@ -2,16 +2,16 @@
   <samp>What am I up to these days?</samp>
 </p>
 
-<div align="center" 
- <p>
+<div align="center"> 
+ <div>
    <samp>🏗️  Building out my portfolio site & brainstorming ideas</samp>
- </p>
- <p>
+ </div>
+ <div>
    <samp>🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem</samp>
- </p>
- <p>
+ </div>
+ <div>
    <samp>💡  Exploring Astro, Deno, zod, pnpm workspaces, Appwrite... whatever crosses my mind</samp>
- </p>
+ </div>
 </div>
 
 &nbsp;
