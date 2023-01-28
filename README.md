@@ -11,9 +11,6 @@
  <div>
    <samp>🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem</samp>
  </div>
- <div>
-   <samp>💡  Exploring Astro, Deno, zod, pnpm workspaces, Appwrite... whatever crosses my mind</samp>
- </div>
 </div>
 
 &nbsp;
@@ -32,17 +29,7 @@
     <a href="https://nodejs.dev/en/">node</a> .
     <a href="https://deno.land/">deno</a> .
     <a href="https://nestjs.com/">nest</a> .
-    <a href="https://www.postgresql.org/">sql</a> .
-    <a href="https://www.python.org/">python</a>
-  </samp>
-</p>
-
-
-&nbsp;
-
-<p align="center">
-  <samp>
-    Be tolerant with others and strict with yourself.
+    <a href="https://www.postgresql.org/">sql</a>
   </samp>
 </p>
 
@@ -54,7 +41,7 @@
   <summary align="center">
     <samp>Stats</samp>
   </summary>
-  <div align="left">
+  <div align="center">
 
 <!--### 📊 Weekly development breakdown-->
 <!--START_SECTION:waka-->
@@ -85,4 +72,27 @@ Other        13 hrs 17 mins  ██▒░░░░░░░░░░░░░░
 </details>
 
      
+
 &nbsp;
+
+<p align="center">
+  <samp>
+    <a href="https://twitter.com/matijao_">twitter</a> .
+    <a href="https://elk.zone/fosstodon.org/@matijao">mastodon</a> .
+    <a href="https://www.linkedin.com/in/matijao/">linkedin</a> .
+    <a href="https://www.goodreads.com/matijao">goodreads</a> .
+    <a href="https://wakatime.com/@matijao">wakatime</a>
+  </samp>
+</p>
+
+
+&nbsp;
+
+<p align="center">
+  <samp>
+    Be tolerant with others and strict with yourself.
+  </samp>
+</p>
+  
+&nbsp;
+  
