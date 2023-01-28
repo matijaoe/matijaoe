@@ -1,16 +1,18 @@
-# Ayy 👋🏻
-
-<p>
+<p align="center">
   <samp>What am I up to these days?</samp>
 </p>
 
-```
-🏗️  Building out my portfolio site & brainstorming ideas
-
-🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem
-
-💡  Exploring Astro, Deno, zod, pnpm workspaces, Appwrite... whatever crosses my mind
-```
+<div align="center" 
+ <p>
+   <samp>🏗️  Building out my portfolio site & brainstorming ideas</samp>
+ </p>
+ <p>
+   <samp>🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem</samp>
+ </p>
+ <p>
+   <samp>💡  Exploring Astro, Deno, zod, pnpm workspaces, Appwrite... whatever crosses my mind</samp>
+ </p>
+</div>
 
 &nbsp;
 
