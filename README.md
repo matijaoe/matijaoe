@@ -1,3 +1,5 @@
+<h1 align="center">Ayy 🤙</h1>
+
 <p align="center">
   <samp>What am I up to these days?</samp>
 </p>
