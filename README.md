@@ -6,7 +6,7 @@
 
 <div align="center"> 
  <div>
-   <samp>🏗️  Building out my portfolio site & brainstorming ideas</samp>
+   <samp>🏗️  Building out my portfolio site & brainstorming project ideas</samp>
  </div>
  <div>
    <samp>🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem</samp>
