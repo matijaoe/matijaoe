@@ -11,7 +11,7 @@
    <samp>🏗️  Building out my portfolio site, finishing up side projects & brainstorming new project ideas</samp>
  </div>
  <div>
-   <samp>🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem</samp>
+   <samp>🔭  Searching for an opportunity to contribute to the Vue Ecosystem</samp>
  </div>
 </div>
 
