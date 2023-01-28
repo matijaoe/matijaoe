@@ -8,9 +8,8 @@ What am I up to these days?
 🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem
 
 💡  Exploring Astro, Deno, zod, pnpm workspaces, Appwrite... whatever crosses my mind
-
-🤿  Deep diving into Nuxt 3, UnoCSS & Vite
 ```
+
 
 <!--
 <p>
@@ -34,7 +33,7 @@ What am I up to these days?
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 -->
-
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,nuxt,typescript,svelte,react,tailwind,vite" />
@@ -43,19 +42,29 @@ What am I up to these days?
     <img src="https://skillicons.dev/icons?i=prisma,nodejs,deno,nest,mysql,python" />
   </a>
 </p>
+-->
 
-<!--### 📊 Weekly development breakdown-->
-<!--START_SECTION:waka-->
+&nbsp;
 
-```text
-From: 27 December 2022 - To: 26 January 2023
+<p align="center">
+  <samp>
+    <a href="https://vuejs.org">vue</a> ✗ 
+    <a href="https://nuxt.com">nuxt</a> ✗ 
+    <a href="https://www.typescriptlang.org/">typescript</a> ✗ 
+    <a href="https://svelte.dev/">svelte</a> ✗ 
+    <a href="https://beta.reactjs.org/">react</a> ✗ 
+    <a href="https://tailwindcss.com/">tailwind</a> ✗ 
+    <a href="https://github.com/unocss/unocss">unocss</a> ✗ 
+    <a href="https://vitejs.dev/">vite</a> ✗ 
+    <a href="https://www.prisma.io/">prisma</a> ✗ 
+    <a href="https://nodejs.dev/en/">node</a> ✗ 
+    <a href="https://deno.land/">deno</a> ✗ 
+    <a href="https://nestjs.com/">nest</a> ✗ 
+    <a href="https://www.postgresql.org/">sql</a> 
+  </samp>
+</p>
 
-Total Time: 153 hrs 12 mins
 
-TypeScript   53 hrs 7 mins   ████████▓░░░░░░░░░░░░░░░░   34.67 %
-Vue.js       38 hrs 24 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
-Other        13 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-```
 
 <!--END_SECTION:waka-->
 <!--
