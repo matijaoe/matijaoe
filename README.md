@@ -48,9 +48,9 @@
 
 ```text
 From: 27 December 2022 - To: 26 January 2023
-    
+
 Total Time: 153 hrs 12 mins
-    
+
 TypeScript   53 hrs 7 mins   ████████▓░░░░░░░░░░░░░░░░   34.67 %
 Vue.js       38 hrs 24 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
 Other        13 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
