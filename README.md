@@ -33,6 +33,15 @@
   </samp>
 </p>
 
+
+&nbsp;
+
+<p align="center">
+  <samp>
+    Be tolerant with others and strict with yourself.
+  </samp>
+</p>
+
 &nbsp;
 
 
@@ -71,24 +80,5 @@ Other        13 hrs 19 mins  ██▒░░░░░░░░░░░░░░
 
 </details>
 
-
-<!--
-<div align="left">
-<a href="https://github.com/mat2ja/github-stats#gh-dark-mode-only">
-<img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/mat2ja/github-stats#gh-light-mode-only">
-<img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-</a>
-</div>
--->
-
-&nbsp;
-
-<p align="center">
-  <samp>
-    Be tolerant with others and strict with yourself.
-  </samp>
-</p>
      
 &nbsp;
