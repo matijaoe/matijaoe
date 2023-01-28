@@ -1,10 +1,14 @@
+<h1 align="center">
+  <samp>hi 👋🏻</samp>
+</h1>
+
 <p align="center">
   <samp>What am I up to these days?</samp>
 </p>
 
 <div align="center"> 
  <div>
-   <samp>🏗️  Building out my portfolio site & brainstorming project ideas</samp>
+   <samp>🏗️  Building out my portfolio site, finishing up side projects & brainstorming new project ideas</samp>
  </div>
  <div>
    <samp>🔭  Actively looking for an opportunity to contribute to the open-source community in the Vue Ecosystem</samp>
