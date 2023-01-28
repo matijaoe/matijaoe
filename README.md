@@ -1,6 +1,8 @@
 # Ayy 👋🏻
 
-What am I up to these days?
+<p>
+  <samp>What am I up to these days?</samp>
+</p>
 
 ```
 🏗️  Building out my portfolio site & brainstorming ideas
@@ -57,11 +59,11 @@ Other        13 hrs 19 mins  ██▒░░░░░░░░░░░░░░
  <div align="center">     
    <a href="https://github.com/mat2ja/github-stats#gh-dark-mode-only">
     <img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    <!--<img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />-->
    </a>
    <a href="https://github.com/mat2ja/github-stats#gh-light-mode-only">
     <img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-    <img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+    <!--<img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />-->
    </a>
   </div>
 
