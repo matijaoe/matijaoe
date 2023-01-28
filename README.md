@@ -60,7 +60,30 @@ What am I up to these days?
     <a href="https://nodejs.dev/en/">node</a> ✗ 
     <a href="https://deno.land/">deno</a> ✗ 
     <a href="https://nestjs.com/">nest</a> ✗ 
-    <a href="https://www.postgresql.org/">sql</a> 
+    <a href="https://www.postgresql.org/">sql</a> ✗ 
+    <a href="https://www.python.org/">python</a>
+  </samp>
+</p>
+
+
+&nbsp;
+
+<p align="center">
+  <samp>
+    <a href="https://vuejs.org">vue</a> ✗ 
+    <a href="https://nuxt.com">nuxt</a> ✗ 
+    <a href="https://www.typescriptlang.org/">typescript</a> ✗ 
+    <a href="https://svelte.dev/">svelte</a> ✗ 
+    <a href="https://beta.reactjs.org/">react</a> ✗ 
+    <a href="https://tailwindcss.com/">tailwind</a> ✗ 
+    <a href="https://github.com/unocss/unocss">unocss</a> ✗ 
+    <a href="https://vitejs.dev/">vite</a> ✗ 
+    <a href="https://www.prisma.io/">prisma</a> ✗ 
+    <a href="https://nodejs.dev/en/">node</a> ✗ 
+    <a href="https://deno.land/">deno</a> ✗ 
+    <a href="https://nestjs.com/">nest</a> ✗ 
+    <a href="https://www.postgresql.org/">sql</a> ✗ 
+    <a href="https://www.python.org/">python</a>
   </samp>
 </p>
 
