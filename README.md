@@ -1,23 +1,28 @@
-<h1 align="center">
+<h1 align="left">
   <samp>hi 👋🏻</samp>
 </h1>
 
-<p align="center">
+<p align="left">
   <samp>What am I up to these days?</samp>
 </p>
 
-<div align="center"> 
+<div align="left"> 
  <div>
    <samp>🏗️  Building out my portfolio site, finishing up side projects & brainstorming new project ideas</samp>
  </div>
  <div>
-   <samp>🔭  Searching for an opportunity to contribute to the Vue Ecosystem</samp>
+   <samp>🔍  Searching for an opportunity to contribute to the Vue Ecosystem</samp>
+ </div>
+ <div>
+   <samp>🔭  Exploring astro, zod, pnpm workspaces ... supabase, slidev ... tauri, appwrite ... .. . . </samp>
  </div>
 </div>
 
-&nbsp;
+<h2 align="left">
+  <samp>stack🏻</samp>
+</h2>
 
-<p align="center">
+<p align="left">
   <samp>
     <a href="https://vuejs.org">vue</a> .
     <a href="https://nuxt.com">nuxt</a> .
@@ -29,19 +34,21 @@
     <a href="https://vitejs.dev/">vite</a> .
     <a href="https://www.prisma.io/">prisma</a> .
     <a href="https://nodejs.dev/en/">node</a> .
-    <a href="https://deno.land/">deno</a>
+    <a href="https://deno.land/">deno</a> .
+    <a href="https://www.postgresql.org/">sql</a>
   </samp>
 </p>
 
-&nbsp;
-
+<h2 align="left">
+  <samp>stats🏻</samp>
+</h2>
 
 <details>
   <br />
-  <summary align="center">
-    <samp>Stats</samp>
+  <summary align="left">
+    <samp>open me up</samp>
   </summary>
-  <div align="center">
+  <div align="left">
 
 <!--### 📊 Weekly development breakdown-->
 <!--START_SECTION:waka-->
@@ -58,7 +65,7 @@ Other        13 hrs 16 mins  ██▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
       
- <div align="center">     
+ <div align="left">     
    <a href="https://github.com/mat2ja/github-stats#gh-dark-mode-only">
     <img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
     <!--<img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />-->
@@ -73,12 +80,15 @@ Other        13 hrs 16 mins  ██▒░░░░░░░░░░░░░░
 
  <!--![](/github-metrics.svg)-->
 </details>
+  
+  
 
-     
 
-&nbsp;
+<h2 align="left">
+  <samp>links🏻</samp>
+</h2>
 
-<p align="center">
+<p align="left">
   <samp>
     <a href="https://twitter.com/matijao_">twitter</a> .
     <a href="https://elk.zone/fosstodon.org/@matijao">mastodon</a> .
@@ -87,15 +97,13 @@ Other        13 hrs 16 mins  ██▒░░░░░░░░░░░░░░
     <a href="https://wakatime.com/@matijao">wakatime</a>
   </samp>
 </p>
-
-
+  
+  
 &nbsp;
 
-<p align="center">
+
+<p align="left">
   <samp>
     Be tolerant with others and strict with yourself.
   </samp>
 </p>
-  
-&nbsp;
-  
