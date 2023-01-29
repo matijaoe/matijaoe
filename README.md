@@ -1,5 +1,5 @@
 <h1 align="left">
-  <samp>hi 👋🏻</samp>
+  👋🏻 <samp>hi</samp>
 </h1>
 
 <p align="left">
@@ -8,13 +8,13 @@
 
 <div align="left"> 
  <div>
-   <samp>🏗️  Building out my portfolio site, finishing up side projects & brainstorming new project ideas</samp>
+   🏗️<samp> Building out my portfolio site, finishing up side projects & brainstorming new project ideas</samp>
  </div>
  <div>
-   <samp>🔍  Searching for an opportunity to contribute to the Vue Ecosystem</samp>
+   🔍<samp> Searching for an opportunity to contribute to the Vue Ecosystem</samp>
  </div>
  <div>
-   <samp>🔭  Exploring astro, zod, pnpm workspaces ... supabase, slidev ... tauri, appwrite ... .. . . </samp>
+   🔭<samp> Exploring astro, zod, pnpm workspaces ... supabase, slidev ... tauri, appwrite ... .. . . </samp>
  </div>
 </div>
 
@@ -64,6 +64,10 @@ Other        13 hrs 16 mins  ██▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+    
+<p>
+  <samp>I am using GitLab at work, so all of these are from doing my own thing</samp>👇🏻
+</p>
       
  <div align="left">     
    <a href="https://github.com/mat2ja/github-stats#gh-dark-mode-only">
@@ -74,11 +78,19 @@ Other        13 hrs 16 mins  ██▒░░░░░░░░░░░░░░
     <img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
     <!--<img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />-->
    </a>
-   
+</div>
     
-  </div>
+<p>
+  <samp>no idea where ~10M lines of code came from</samp> 🤣
+</p>
 
- <!--![](/github-metrics.svg)-->
+
+    
+![metrics](/github-metrics.svg)
+ 
+<p>
+  <samp>not including organizations</samp>🤷🏻☝🏻
+</p>
 </details>
   
   
