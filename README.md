@@ -1,5 +1,5 @@
 <h1 align="left">
-  👋🏻 <samp>hi</samp>
+  👋🏻 <samp>ayo</samp>
 </h1>
 
 <p align="left">
@@ -8,18 +8,23 @@
 
 <div align="left"> 
  <div>
-   🏗️<samp> Building out my portfolio site, finishing up side projects & brainstorming new project ideas</samp>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp> Building out my portfolio site, finishing up side projects & brainstorming new project ideas</samp>
  </div>
  <div>
-   🔍<samp> Searching for an opportunity to contribute to the Vue Ecosystem</samp>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp> Searching for an opportunity to contribute to the Vue Ecosystem</samp>
  </div>
  <div>
-   🔭<samp> Exploring astro, zod, pnpm workspaces ... supabase, slidev ... tauri, appwrite ... .. . . </samp>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp> Exploring astro, zod, pnpm workspaces ... supabase, slidev ... tauri, appwrite ... .. . . </samp>
  </div>
 </div>
 
 <h2 align="left">
-  <samp>stack🏻</samp>
+  <samp>stack</samp>
+  <img src="https://api.iconify.design/logos:vue.svg" height="20" />
+  <img src="https://api.iconify.design/logos:nuxt-icon.svg" height="20" />
 </h2>
 
 <p align="left">
@@ -40,13 +45,13 @@
 </p>
 
 <h2 align="left">
-  <samp>stats🏻</samp>
+  <samp>stats</samp>
 </h2>
 
 <details>
   <br />
   <summary align="left">
-    <samp>open me up</samp>
+    <samp>toggle me up</samp>
   </summary>
   <div align="left">
 
@@ -97,7 +102,7 @@ Other        13 hrs 16 mins  ██▒░░░░░░░░░░░░░░
 
 
 <h2 align="left">
-  <samp>links🏻</samp>
+  <samp>links</samp>
 </h2>
 
 <p align="left">
