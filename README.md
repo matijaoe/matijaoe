@@ -59,13 +59,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 28 January 2023
+From: 30 December 2022 - To: 29 January 2023
 
-Total Time: 149 hrs 26 mins
+Total Time: 141 hrs 51 mins
 
-TypeScript   45 hrs 9 mins   ███████▓░░░░░░░░░░░░░░░░░   30.22 %
-Vue.js       43 hrs 28 mins  ███████▒░░░░░░░░░░░░░░░░░   29.09 %
-Other        13 hrs 16 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Vue.js       42 hrs 47 mins  ███████▓░░░░░░░░░░░░░░░░░   30.16 %
+TypeScript   40 hrs 51 mins  ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+Other        13 hrs 14 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
 ```
 
 <!--END_SECTION:waka-->
