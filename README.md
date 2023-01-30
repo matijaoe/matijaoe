@@ -114,13 +114,3 @@ Other        13 hrs 14 mins  ██▒░░░░░░░░░░░░░░
     <a href="https://wakatime.com/@matijao">wakatime</a>
   </samp>
 </p>
-  
-  
-&nbsp;
-
-
-<p align="left">
-  <samp>
-    Be tolerant with others and strict with yourself.
-  </samp>
-</p>
