@@ -17,7 +17,7 @@
  </div>
  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Exploring astro, zod, pnpm workspaces ... supabase, slidev ... tauri, appwrite ... .. . . </samp>
+   <samp> Finishing up my college degree</samp>
  </div>
 </div>
 
