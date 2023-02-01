@@ -13,7 +13,7 @@
  </div>
  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Searching for an opportunity to contribute to the Vue Ecosystem</samp>
+   <samp> Searching for an opportunity to contribute to open-source projects, primarily in the Vue Ecosystem</samp>
  </div>
  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
