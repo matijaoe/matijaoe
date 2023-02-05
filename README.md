@@ -74,23 +74,24 @@ Other        14 hrs 33 mins  ██▓░░░░░░░░░░░░░░
 <p>
   <samp>I am using GitLab at work, so all of these are from doing my own thing</samp>👇🏻
 </p>
-      
+    
+ <!--
  <div align="left">     
    <a href="https://github.com/mat2ja/github-stats#gh-dark-mode-only">
     <img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-    <!--<img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />-->
+    <img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
    </a>
    <a href="https://github.com/mat2ja/github-stats#gh-light-mode-only">
     <img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-    <!--<img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />-->
+    <img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
    </a>
 </div>
-    
+
 <p>
   <samp>no idea where ~10M lines of code came from</samp> 🤣
 </p>
 
-
+  -->  
     
 ![metrics](/github-metrics.svg)
  
