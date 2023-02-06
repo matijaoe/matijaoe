@@ -59,14 +59,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 04 February 2023
+From: 06 January 2023 - To: 05 February 2023
 
-Total Time: 131 hrs 48 mins
+Total Time: 125 hrs 19 mins
 
-Vue.js       41 hrs 2 mins   ███████▓░░░░░░░░░░░░░░░░░   31.14 %
-TypeScript   23 hrs 47 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-Twig         18 hrs 54 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-Other        14 hrs 33 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+Vue.js       41 hrs 15 mins  ████████▒░░░░░░░░░░░░░░░░   32.92 %
+TypeScript   24 hrs 36 mins  █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+Twig         18 hrs 54 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Other        14 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
 ```
 
 <!--END_SECTION:waka-->
