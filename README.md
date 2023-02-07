@@ -72,7 +72,7 @@ Other        14 hrs 8 mins   ███░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
     
 <p>
-  <samp>I am using GitLab at work, so all of these are from doing my own thing</samp>👇🏻
+  <samp>I use GitLab at work, so all of these are from doing my own thing</samp> 👇🏻
 </p>
     
  <!--
