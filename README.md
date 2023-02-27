@@ -59,16 +59,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 25 February 2023
+From: 27 January 2023 - To: 26 February 2023
 
-Total Time: 90 hrs 27 mins
+Total Time: 87 hrs 8 mins
 
-Vue.js       54 hrs 41 mins  ███████████████░░░░░░░░░░   60.46 %
-TypeScript   14 hrs 9 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-Twig         9 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Svelte       2 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-JSON         2 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Markdown     2 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Vue.js       53 hrs 40 mins  ███████████████▒░░░░░░░░░   61.60 %
+TypeScript   14 hrs 2 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+Twig         7 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Svelte       2 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JSON         2 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown     2 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
