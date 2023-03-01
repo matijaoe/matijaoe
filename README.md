@@ -15,10 +15,6 @@
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp> Looking for an opportunity to contribute to open-source, primarily in the Vue Ecosystem</samp>
  </div>
- <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Finishing up my college degree</samp>
- </div>
 </div>
 
 <h2 align="left">
