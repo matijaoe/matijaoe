@@ -9,7 +9,11 @@
 <div align="left"> 
  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Building out my portfolio site, finishing up side projects & brainstorming new project ideas</samp>
+   <samp> Building something interesting 👀</samp>
+ </div>
+ <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp> Finishing up my portfolio site</samp>
  </div>
  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
@@ -97,8 +101,6 @@ JSON         1 hr 25 mins    ▒░░░░░░░░░░░░░░░░
   <samp>not including organizations</samp>🤷🏻☝🏻
 </p>
 </details>
-  
-  
 
 
 <h2 align="left">
@@ -108,8 +110,8 @@ JSON         1 hr 25 mins    ▒░░░░░░░░░░░░░░░░
 <p align="left">
   <samp>
     <a href="https://twitter.com/matijao_">twitter</a> .
-    <a href="https://elk.zone/fosstodon.org/@matijao">mastodon</a> .
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> .
+    <a href="https://elk.zone/fosstodon.org/@matijao">mastodon</a> .
     <a href="https://www.goodreads.com/matijao">goodreads</a> .
     <a href="https://wakatime.com/@matijao">wakatime</a>
   </samp>
