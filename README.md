@@ -39,7 +39,6 @@
     <a href="https://vitejs.dev/">vite</a> .
     <a href="https://www.prisma.io/">prisma</a> .
     <a href="https://nodejs.dev/en/">node</a> .
-    <a href="https://deno.land/">deno</a> .
     <a href="https://www.postgresql.org/">sql</a>
   </samp>
 </p>
