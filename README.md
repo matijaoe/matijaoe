@@ -73,7 +73,7 @@ JavaScript   49 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
     
 <p>
-  <samp>I use GitLab at work, so all of these are from doing my own thing</samp> 👇🏻
+  <samp>We use GitLab at work, so all of these are from my own stuff</samp> 👇🏻
 </p>
     
  <!--
