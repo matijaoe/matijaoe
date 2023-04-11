@@ -58,12 +58,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 09 April 2023
+From: 11 March 2023 - To: 10 April 2023
 
 Total Time: 100 hrs 5 mins
 
 Vue.js       57 hrs 2 mins   ██████████████▒░░░░░░░░░░   56.99 %
-TypeScript   35 hrs 32 mins  █████████░░░░░░░░░░░░░░░░   35.50 %
+TypeScript   35 hrs 31 mins  █████████░░░░░░░░░░░░░░░░   35.50 %
 JSON         2 hrs 47 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 JavaScript   1 hr 4 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 Docker       56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
