@@ -9,7 +9,7 @@
 <div align="left"> 
  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Tight deadlines at work, working my ass off</samp>
+   <samp> Spending most of my time at work</samp>
  </div>
  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
@@ -17,7 +17,7 @@
  </div>
   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Finishing up my portfolio site (for like the last 6 months)</samp>
+   <samp> Finishing up my portfolio site (for like the last 7 months)</samp>
  </div>
 </div>
 
