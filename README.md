@@ -1,5 +1,5 @@
 <h1 align="left">
-  👋🏻 <samp>ayo</samp>
+  ✌🏻 <samp>ayyyy</samp>
 </h1>
 
 <p align="left">
@@ -7,9 +7,9 @@
 </p>
 
 <div align="left"> 
- <div>
+  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Spending most of my time at work</samp>
+   <samp> Finishing up my portfolio site</samp>
  </div>
  <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
@@ -17,8 +17,11 @@
  </div>
   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Finishing up my portfolio site (for like the last 7 months)</samp>
+   <samp> Playing around with an idea of Bitcoin smart contracts (Clarity, Stacks)</samp>
  </div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp> Searching for my <a href="https://www.meaningfulhq.com/the-one-thing.html">ONE Thing</a></samp>
+  </div>
 </div>
 
 <h2 align="left">
@@ -32,13 +35,13 @@
     <a href="https://vuejs.org">vue</a> .
     <a href="https://nuxt.com">nuxt</a> .
     <a href="https://www.typescriptlang.org/">typescript</a> .
-    <a href="https://svelte.dev/">svelte</a> .
-    <a href="https://beta.reactjs.org/">react</a> .
     <a href="https://tailwindcss.com/">tailwind</a> .
-    <a href="https://github.com/unocss/unocss">unocss</a> .
+    <a href="https://unocss.dev/">unocss</a> .
+    <a href="https://react.dev/">react</a> .
+    <a href="https://svelte.dev/">svelte</a> .
     <a href="https://vitejs.dev/">vite</a> .
-    <a href="https://www.prisma.io/">prisma</a> .
     <a href="https://nodejs.dev/en/">node</a> .
+    <a href="https://www.prisma.io/">prisma</a> .
     <a href="https://www.postgresql.org/">sql</a>
   </samp>
 </p>
