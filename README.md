@@ -17,7 +17,7 @@
  </div>
   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Playing around with an idea of Bitcoin smart contracts (Clarity, Stacks)</samp>
+   <samp> Went deep into security, encryption and bitcoin</samp>
  </div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp> Searching for my <a href="https://www.meaningfulhq.com/the-one-thing.html">ONE Thing</a></samp>
