@@ -17,7 +17,7 @@
  </div>
   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Went deep into security, encryption and bitcoin</samp>
+   <samp> Went deep into security, encryption and bitcoin whereabouts</samp>
  </div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp> Searching for my <a href="https://www.meaningfulhq.com/the-one-thing.html">ONE Thing</a></samp>
