@@ -17,7 +17,7 @@
  </div>
   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Went deep into security, encryption and bitcoin whereabouts</samp>
+   <samp> Went DEEP into security, encryption and bitcoin technicals</samp>
  </div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp> Searching for my <a href="https://www.meaningfulhq.com/the-one-thing.html">ONE Thing</a></samp>
@@ -112,7 +112,6 @@ JSON         1 hr 3 mins     ▒░░░░░░░░░░░░░░░░
   <samp>
     <a href="https://twitter.com/matijao_">twitter</a> .
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> .
-    <a href="https://elk.zone/fosstodon.org/@matijao">mastodon</a> .
     <a href="https://www.goodreads.com/matijao">goodreads</a> .
     <a href="https://wakatime.com/@matijao">wakatime</a>
   </samp>
