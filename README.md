@@ -9,19 +9,8 @@
 <div align="left"> 
   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Finishing up my portfolio site</samp>
+   <samp> bitcoin, security & privacy</samp>
  </div>
- <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Learning Docker on the side</samp>
- </div>
-  <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Went DEEP into security, encryption and bitcoin technicals</samp>
- </div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Searching for my <a href="https://www.meaningfulhq.com/the-one-thing.html">ONE Thing</a></samp>
-  </div>
 </div>
 
 <h2 align="left">
