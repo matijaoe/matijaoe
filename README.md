@@ -64,7 +64,7 @@ Twig         1 hr 1 min      ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
     
 <p>
-  <samp>We use GitLab at work, so all of these are from my own stuff</samp> 👇🏻
+  <samp>We use GitLab at work</samp>
 </p>
     
  <!--
