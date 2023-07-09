@@ -79,7 +79,7 @@ Bash         51 mins         ▒░░░░░░░░░░░░░░░░
 
 <p align="left">
   <samp>
-    <a href="https://twitter.com/matijao_">website</a> .
+    <a href="https://matijao.com">website</a> .
     <a href="https://twitter.com/matijao_">twitter</a> .
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> .
     <a href="https://www.goodreads.com/matijao">goodreads</a> .
