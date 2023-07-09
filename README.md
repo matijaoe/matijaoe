@@ -1,5 +1,5 @@
 <h1 align="left">
-  ✌🏻 <samp>ayyyy</samp>
+  ✌🏻 <samp>howdy</samp>
 </h1>
 
 <p align="left">
@@ -39,12 +39,7 @@
   <samp>stats</samp>
 </h2>
 
-<details>
-  <br />
-  <summary align="left">
-    <samp>toggle me up</samp>
-  </summary>
-  <div align="left">
+<div>
 
 <!--### 📊 Weekly development breakdown-->
 <!--START_SECTION:waka-->
@@ -62,34 +57,19 @@ Bash         51 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-    
-<p>
-  <samp>We use GitLab at work</samp>
-</p>
-    
- <!--
- <div align="left">     
-   <a href="https://github.com/mat2ja/github-stats#gh-dark-mode-only">
-    <img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-   </a>
-   <a href="https://github.com/mat2ja/github-stats#gh-light-mode-only">
-    <img src="https://github.com/mat2ja/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-    <img src="https://github.com/mat2ja/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-   </a>
-</div>
 
-<p>
-  <samp>no idea where ~10M lines of code came from</samp> 🤣
-</p>
-
-  -->  
+<details>
+ <summary align="left">
+    <samp>more</samp>
+  </summary>
+  <div align="left">
     
 ![metrics](/github-metrics.svg)
  
-<p>
-  <samp>not including organizations</samp>🤷🏻☝🏻
-</p>
+  <p>
+    <samp>not including organizations</samp>🤷🏻☝🏻
+  </p>
+</div>
 </details>
 
 
@@ -99,6 +79,7 @@ Bash         51 mins         ▒░░░░░░░░░░░░░░░░
 
 <p align="left">
   <samp>
+    <a href="https://twitter.com/matijao_">website</a> .
     <a href="https://twitter.com/matijao_">twitter</a> .
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> .
     <a href="https://www.goodreads.com/matijao">goodreads</a> .
