@@ -80,7 +80,7 @@ Markdown     1 hr 15 mins    ▓░░░░░░░░░░░░░░░░
 <p align="left">
   <samp>
     <a href="https://matijao.com">website</a> .
-    <a href="https://twitter.com/matijao_">twitter</a> .
+    <a href="https://twitter.com/matijaoe">twitter</a> .
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> .
     <a href="https://www.goodreads.com/matijao">goodreads</a> .
     <a href="https://wakatime.com/@matijao">wakatime</a>
