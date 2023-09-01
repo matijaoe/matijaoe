@@ -45,15 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 30 August 2023
+From: 01 August 2023 - To: 31 August 2023
 
-Total Time: 34 hrs 22 mins
+Total Time: 36 hrs 37 mins
 
-Vue.js       25 hrs 1 min    ██████████████████▒░░░░░░   72.78 %
-JavaScript   8 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
-PHP          30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Gherkin      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Vue.js       28 hrs 33 mins  ███████████████████▒░░░░░   77.99 %
+JavaScript   7 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+PHP          30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Gherkin      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
