@@ -1,5 +1,5 @@
 <h1 align="left">
-  ✌🏻 <samp>howdy</samp>
+  ✌🏻 <samp>hey</samp>
 </h1>
 
 <p align="left">
