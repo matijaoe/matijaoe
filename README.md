@@ -9,15 +9,7 @@
 <div align="left"> 
 <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Building my own util lib</samp>
- </div>
-  <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Getting good with AI</samp>
- </div>
- <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> Building on Bitcoin</samp>
+   <samp> into bitcoin & macroeconomics </samp>
  </div>
 </div>
 
