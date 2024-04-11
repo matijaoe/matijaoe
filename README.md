@@ -9,11 +9,11 @@
 <div align="left"> 
 <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> mostly bitcoin </samp>
+   <samp> into bitcoin </samp>
  </div>
 <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>working on new personal website</samp>
+   <samp>new personal website</samp>
  </div>
 </div>
 
