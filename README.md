@@ -13,7 +13,7 @@
  </div>
 <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>already working on new personal website</samp>
+   <samp>rebuilding my personal website</samp>
  </div>
 </div>
 
