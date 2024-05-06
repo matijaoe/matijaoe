@@ -78,10 +78,7 @@ Other         1 hr 13 mins    ▒░░░░░░░░░░░░░░░�
   <div align="left">
     
 ![metrics](/github-metrics.svg)
- 
-  <p>
-    <samp>not including organizations</samp>🤷🏻☝🏻
-  </p>
+
 </div>
 </details>
 
