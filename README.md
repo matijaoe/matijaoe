@@ -13,12 +13,16 @@
  </div>
 <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>rebuilding my personal site</samp>
+   <samp>rebuilding my site</samp>
  </div>
 <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>advanced typescript</samp>
  </div>
+   <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp>exploring hono</samp>
+   </div>
 </div>
 
 <h2 align="left">
@@ -38,8 +42,8 @@
     <a href="https://react.dev/">react</a> •
     <a href="https://svelte.dev/">svelte</a> •
     <a href="https://vitejs.dev/">vite</a> •
-    <a href="https://nodejs.dev/en/">node</a> •
-    <a href="https://www.prisma.io/">prisma</a> •
+    <a href="https://bun.sh/">bun</a> •
+    <a href="https://nodejs.org/en">node</a> •
     <a href="https://www.postgresql.org/">sql</a>
   </samp>
 </p>
