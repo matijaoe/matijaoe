@@ -15,13 +15,9 @@
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>rebuilding my site</samp>
  </div>
-<div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>advanced typescript</samp>
- </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>exploring hono</samp>
+   <samp>graphql</samp>
    </div>
 </div>
 
