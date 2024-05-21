@@ -7,18 +7,18 @@
 </p>
 
 <div align="left"> 
-<div>
+   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp> into bitcoin </samp>
- </div>
-<div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>rebuilding my site</samp>
- </div>
+   <samp>new job (don't let my boss see this)</samp>
+   </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>graphql</samp>
    </div>
+<div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp>rebuilding my site</samp>
+ </div>
 </div>
 
 <h2 align="left">
