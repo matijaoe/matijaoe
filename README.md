@@ -58,15 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2024 - To: 15 July 2024
+From: 16 June 2024 - To: 16 July 2024
 
-Total Time: 43 hrs 58 mins
+Total Time: 45 hrs 57 mins
 
-Vue.js        20 hrs 48 mins  ███████████▓░░░░░░░░░░░░░   47.30 %
-TypeScript    17 hrs 27 mins  ██████████░░░░░░░░░░░░░░░   39.72 %
-Bash          1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Markdown      50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-GraphQL       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Vue.js        21 hrs 22 mins  ███████████▓░░░░░░░░░░░░░   46.49 %
+TypeScript    18 hrs 53 mins  ██████████▒░░░░░░░░░░░░░░   41.08 %
+Bash          1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Markdown      50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+GraphQL       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
