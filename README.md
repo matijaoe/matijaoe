@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <samp>What am I up to these days?</samp>
+  <samp>What am I up to</samp>
 </p>
 
 <div align="left"> 
