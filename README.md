@@ -15,7 +15,6 @@
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>studying graphql</samp>
    </div>
-    <div>
 </div>
 
 <h2 align="left">
@@ -34,6 +33,7 @@
     <a href="https://unocss.dev/">unocss</a> •
     <a href="https://react.dev/">react</a> •
     <a href="https://svelte.dev/">svelte</a> •
+    <a href="https://graphql.org/">graphql</a> •
     <a href="https://vitejs.dev/">vite</a> •
     <a href="https://bun.sh/">bun</a> •
     <a href="https://nodejs.org/en">node</a> •
