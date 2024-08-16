@@ -87,6 +87,7 @@ Image (svg)   42 mins         ▒░░░░░░░░░░░░░░░�
     <a href="https://twitter.com/matijaoe">twitter</a> •
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
     <a href="https://www.goodreads.com/matijao">goodreads</a> •
+    <a href="https://gitlab.com/matijao">gitlab</a> •
     <a href="https://wakatime.com/@matijao">wakatime</a>
   </samp>
 </p>
