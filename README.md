@@ -96,7 +96,7 @@ Python        6 hrs 6 mins    █░░░░░░░░░░░░░░░�
   <samp>
     <a href="https://matijao.com">website</a> •
     <a href="https://bento.me/matijao">bento</a> •
-    <a href="https://x/matijaoe">x</a> •
+    <a href="https://x/matijaoe">x.com</a> •
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
     <a href="https://www.goodreads.com/matijao">goodreads</a> •
     <a href="https://gitlab.com/matijao">gitlab</a> •
