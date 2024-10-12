@@ -2,6 +2,8 @@
    <samp>👋🏻 🫵🏻 👇🏻</samp>
 </h1>
 
+![gif](https://media1.tenor.com/m/3AQDvhSiPpMAAAAC/dog-hacker.gif)
+
 <p align="left">
   <samp>what am I up to?</samp>
 </p>
@@ -19,13 +21,13 @@
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>instructing ai to write me an unlimited number of bash/python scripts</samp>
    </div>
-    <div>
+   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>i hope to learn effective unit testing</samp>
+   <samp>hope to learn effective unit testing</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>i want to play around with deno 2</samp>
+   <samp>want to play around with deno 2</samp>
    </div>
 </div>
 
