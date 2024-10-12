@@ -9,11 +9,15 @@
 <div align="left"> 
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>grinding</samp>
+   <samp>grinding 🤝🏻 burnouting</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>burnouting</samp>
+   <samp>working on my homelab setup</samp>
+   </div>
+   <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp>instructing ai to write me an unlimited number of bash/python scripts</samp>
    </div>
 </div>
 
