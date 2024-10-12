@@ -2,7 +2,6 @@
    <samp>👋🏻 🫵🏻 👇🏻</samp>
 </h1>
 
-![gif](https://media.tenor.com/RCQgbxVWhYgAAAAi/discord-discordgifemoji.gif)
 
 <p align="left">
   <samp>what am I up to?</samp>
@@ -30,6 +29,9 @@
    <samp>want to play around with deno 2</samp>
    </div>
 </div>
+&nbsp;
+
+![gif](https://media1.tenor.com/m/3AQDvhSiPpMAAAAC/dog-hacker.gif)
 
 <h2 align="left">
   <samp>stack</samp>
