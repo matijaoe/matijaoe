@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <samp>What am I up to</samp>
+  <samp>what am I up to?</samp>
 </p>
 
 <div align="left"> 
@@ -18,6 +18,14 @@
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>instructing ai to write me an unlimited number of bash/python scripts</samp>
+   </div>
+    <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp>i hope to learn effective unit testing</samp>
+   </div>
+   <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp>i want to play around with deno 2</samp>
    </div>
 </div>
 
