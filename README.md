@@ -33,7 +33,7 @@
     <a href="https://graphql.org/">graphql</a> •
     <a href="https://vitejs.dev/">vite</a> •
     <a href="https://bun.sh/">bun</a> •
-    <a href="https://nodejs.org/en">node</a> •
+    <a href="https://nodejs.org/en">node</a>
   </samp>
 </p>
 
