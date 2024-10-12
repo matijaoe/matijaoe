@@ -9,11 +9,11 @@
 <div align="left"> 
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>new job</samp>
+   <samp>grinding</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>homelabbin'</samp>
+   <samp>burnouting</samp>
    </div>
 </div>
 
