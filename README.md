@@ -30,14 +30,10 @@
     <a href="https://nuxt.com">nuxt</a> •
     <a href="https://www.typescriptlang.org/">typescript</a> •
     <a href="https://tailwindcss.com/">tailwind</a> •
-    <a href="https://unocss.dev/">unocss</a> •
-    <a href="https://react.dev/">react</a> •
-    <a href="https://svelte.dev/">svelte</a> •
     <a href="https://graphql.org/">graphql</a> •
     <a href="https://vitejs.dev/">vite</a> •
     <a href="https://bun.sh/">bun</a> •
     <a href="https://nodejs.org/en">node</a> •
-    <a href="https://www.postgresql.org/">sql</a>
   </samp>
 </p>
 
@@ -82,9 +78,9 @@ Python        6 hrs 6 mins    █░░░░░░░░░░░░░░░�
 
 <p align="left">
   <samp>
-    <a href="https://bento.me/matijao">bento</a> •
     <a href="https://matijao.com">website</a> •
-    <a href="https://twitter.com/matijaoe">twitter</a> •
+    <a href="https://bento.me/matijao">bento</a> •
+    <a href="https://x/matijaoe">x</a> •
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
     <a href="https://www.goodreads.com/matijao">goodreads</a> •
     <a href="https://gitlab.com/matijao">gitlab</a> •
