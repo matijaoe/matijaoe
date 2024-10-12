@@ -85,7 +85,7 @@ Python        6 hrs 6 mins    █░░░░░░░░░░░░░░░�
 
 
 <h2 align="left">
-  <samp>links</samp>
+  <samp>find me at</samp>
 </h2>
 
 <p align="left">
