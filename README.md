@@ -2,7 +2,7 @@
    <samp>👋🏻 🫵🏻 👇🏻</samp>
 </h1>
 
-![gif](https://media1.tenor.com/m/3AQDvhSiPpMAAAAC/dog-hacker.gif)
+![gif](https://media.tenor.com/RCQgbxVWhYgAAAAi/discord-discordgifemoji.gif)
 
 <p align="left">
   <samp>what am I up to?</samp>
