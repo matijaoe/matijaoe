@@ -10,7 +10,7 @@
 <div align="left"> 
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>grinding 🤝🏻 burnouting</samp>
+   <samp>doing the work</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
