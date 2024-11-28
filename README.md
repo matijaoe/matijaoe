@@ -8,13 +8,12 @@
 </p>
 
 <div align="left"> 
-   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>grind</samp>
+   <samp>studying unit testing</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>studying unit testing & web accessibility</samp>
+   <samp>reading up on web accessibility</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
@@ -22,8 +21,6 @@
    </div>
 </div>
 &nbsp;
-
-![gif](https://media1.tenor.com/m/3AQDvhSiPpMAAAAC/dog-hacker.gif)
 
 <h2 align="left">
   <samp>stack</samp>
@@ -91,7 +88,6 @@ Other        30 mins         ▒░░░░░░░░░░░░░░░░
     <a href="https://x/matijaoe">x.com</a> •
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
     <a href="https://www.goodreads.com/matijao">goodreads</a> •
-    <a href="https://gitlab.com/matijao">gitlab</a> •
     <a href="https://wakatime.com/@matijao">wakatime</a>
   </samp>
 </p>
