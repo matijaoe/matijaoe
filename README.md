@@ -9,18 +9,17 @@
 
 <div align="left"> 
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>studying unit testing</samp>
+   <samp>unit testing</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>reading up on web accessibility</samp>
+   <samp>web accessibility</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>bitcoin</samp>
    </div>
 </div>
-&nbsp;
 
 <h2 align="left">
   <samp>stack</samp>
