@@ -19,10 +19,6 @@
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>bitcoin</samp>
    </div>
-   <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>cashu (ecash on bitcoin)</samp>
-   </div>
 </div>
 
 <h2 align="left">
