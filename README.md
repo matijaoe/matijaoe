@@ -14,7 +14,7 @@
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>bitcoin</samp>
+   <samp>building bitcoin tools</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
