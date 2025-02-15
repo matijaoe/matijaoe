@@ -14,11 +14,11 @@
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>building bitcoin tools</samp>
+   <samp>building on ₿itcoin</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>effective unit & component testing</samp>
+   <samp>learning unit & component testing</samp>
    </div>
   
 </div>
@@ -87,6 +87,7 @@ JSON          50 mins         ▒░░░░░░░░░░░░░░░�
     <a href="https://matijao.com">website</a> •
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
     <a href="https://www.goodreads.com/matijao">goodreads</a> •
-    <a href="https://wakatime.com/@matijao">wakatime</a>
+    <a href="https://wakatime.com/@matijao">wakatime</a> •
+   <a href="https://bento.me/matijao">bento</a>
   </samp>
 </p>
