@@ -10,15 +10,15 @@
 <div align="left"> 
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>all-in on AI</samp>
+   <samp>all-in on ai</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>building on ₿itcoin</samp>
+   <samp>building on bitcoin</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>learning unit & component testing</samp>
+   <samp>studying unit & component testing</samp>
    </div>
   
 </div>
@@ -68,7 +68,7 @@ JavaScript   57 mins         ▒░░░░░░░░░░░░░░░░
 
 <details>
  <summary align="left">
-    <samp>more</samp>
+    <samp>more stats</samp>
   </summary>
   <div align="left">
     
@@ -84,7 +84,7 @@ JavaScript   57 mins         ▒░░░░░░░░░░░░░░░░
 
 <p align="left">
   <samp>
-    <a href="https://matijao.com">website</a> •
+    <a href="https://matijao.com">matijao.com</a> •
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
     <a href="https://www.goodreads.com/matijao">goodreads</a> •
     <a href="https://wakatime.com/@matijao">wakatime</a> •
