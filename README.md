@@ -66,6 +66,8 @@ JSON         1 hr 43 mins    ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=flat-square)](https://wakatime.com/@73d09cdf-c9fc-423b-9f1d-ff77f6d291da)
+
 <details>
  <summary align="left">
     <samp>more stats</samp>
@@ -76,7 +78,6 @@ JSON         1 hr 43 mins    ▒░░░░░░░░░░░░░░░░
 
 </div>
 </details>
-
 
 <h2 align="left">
   <samp>find me at</samp>
