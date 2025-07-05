@@ -18,11 +18,7 @@
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>into web security right now</samp>
-   </div>
-   <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>studying javascript testing</samp>
+   <samp>into web security rn</samp>
    </div>
   
 </div>
