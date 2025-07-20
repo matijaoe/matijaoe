@@ -10,6 +10,10 @@
 <div align="left"> 
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <samp>working too much</samp>
+   </div>
+   <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>all-in on ai</samp>
    </div>
    <div>
