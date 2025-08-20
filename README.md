@@ -12,6 +12,10 @@
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>all-in on ai</samp>
    </div>
+    <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+   <samp>your neighborhood claude code expert</samp>
+   </div>
 </div>
 
 <h2 align="left">
