@@ -14,15 +14,16 @@
    </div>
     <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-   <samp>your neighborhood claude code expert</samp>
+   <samp>becoming your friendly neighborhood claude code expert</samp>
    </div>
+   <div>
 </div>
 
 <h2 align="left">
-  <samp>stack</samp>
-  <img src="https://api.iconify.design/logos:vue.svg" height="20" />
-  <img src="https://api.iconify.design/logos:nuxt-icon.svg" height="20" />
-  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="20" />
+   <samp>stack</samp>
+   <img src="https://api.iconify.design/logos:vue.svg" height="24" />
+   <img src="https://api.iconify.design/logos:typescript-icon.svg" height="24" />
+   <img src="https://api.iconify.design/logos:claude-icon.svg" height="24" />
 </h2>
 
 <p align="left">
