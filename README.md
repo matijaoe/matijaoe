@@ -10,21 +10,8 @@
 <div align="left"> 
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>working too much</samp>
-   </div>
-   <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>all-in on ai</samp>
    </div>
-   <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>building on bitcoin</samp>
-   </div>
-   <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>into web security rn</samp>
-   </div>
-  
 </div>
 
 <h2 align="left">
@@ -93,6 +80,6 @@ Bash          3 hrs 6 mins    ▓░░░░░░░░░░░░░░░�
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
     <a href="https://www.goodreads.com/matijao">goodreads</a> •
     <a href="https://wakatime.com/@matijao">wakatime</a> •
-   <a href="https://bento.me/matijao">bento</a>
+   <a href="https://bento.me/matijao">bento</a>      
   </samp>
 </p>
