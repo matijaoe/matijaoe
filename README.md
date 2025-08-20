@@ -12,9 +12,14 @@
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
    <samp>all-in on ai</samp>
    </div>
-    <div>
+   <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
    <samp>becoming your friendly neighborhood claude code expert</samp>
+   </div>
+   <div>
+    <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%233CAAFF" height="12" />
+   <samp>on the grind to senior</samp>
    </div>
    <div>
 </div>
@@ -81,7 +86,7 @@ Bash          3 hrs 6 mins    ▓░░░░░░░░░░░░░░░�
 
 <p align="left">
   <samp>
-    <a href="https://matijao.com">matijao.com</a> •
+    <a href="https://matijao.com">website</a> •
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
     <a href="https://www.goodreads.com/matijao">goodreads</a> •
     <a href="https://wakatime.com/@matijao">wakatime</a> •
