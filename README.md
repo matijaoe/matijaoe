@@ -17,10 +17,6 @@
    <samp>becoming your friendly neighborhood claude code expert</samp>
    </div>
    <div>
-    <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%233CAAFF" height="12" />
-   <samp>on the grind to senior</samp>
-   </div>
    <div>
 </div>
 
