@@ -14,7 +14,7 @@
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-   <samp>becoming claude code expert</samp>
+   <samp>becoming a claude code expert</samp>
    </div>
    <div>
    <div>
