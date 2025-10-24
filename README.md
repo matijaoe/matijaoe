@@ -10,14 +10,8 @@
 <div align="left"> 
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
-   <samp>all-in on ai</samp>
+   <samp>ai</samp>
    </div>
-   <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-   <samp>becoming a claude code expert</samp>
-   </div>
-   <div>
-   <div>
 </div>
 
 <h2 align="left">
