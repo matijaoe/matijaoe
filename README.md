@@ -48,15 +48,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 04 February 2026
+From: 06 January 2026 - To: 05 February 2026
 
-Total Time: 118 hrs 26 mins
+Total Time: 119 hrs 52 mins
 
-Vue.js        45 hrs 45 mins  █████████▓░░░░░░░░░░░░░░░   38.62 %
-TypeScript    33 hrs 59 mins  ███████▒░░░░░░░░░░░░░░░░░   28.70 %
-Other         25 hrs 57 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-Markdown      4 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-GraphQL       4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Vue.js        45 hrs 45 mins  █████████▓░░░░░░░░░░░░░░░   38.17 %
+TypeScript    33 hrs 59 mins  ███████░░░░░░░░░░░░░░░░░░   28.36 %
+Other         27 hrs 21 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
+Markdown      4 hrs 59 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+GraphQL       4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
