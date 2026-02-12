@@ -1,7 +1,3 @@
-<h1 align="left">
-   <samp>👋🏻 🫵🏻 👇🏻</samp>
-</h1>
-
 
 <p align="left">
   <samp>what am I up to?</samp>
@@ -9,21 +5,21 @@
 
 <div align="left"> 
    <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%234493F8" height="12" />
    <samp>ai <strong><em>everything</em></strong></samp>
    </div>
    <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2300DC82" height="12" />
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%234493F8" height="12" />
    <samp>getting settled into senior role</samp>
    </div>
 </div>
 
-<h2 align="left">
+<h3 align="left">
    <samp>stack</samp>
    <img src="https://api.iconify.design/logos:vue.svg" height="24" />
    <img src="https://api.iconify.design/logos:typescript-icon.svg" height="24" />
    <img src="https://api.iconify.design/logos:claude-icon.svg" height="24" />
-</h2>
+</h3>
 
 <p align="left">
   <samp>
@@ -47,9 +43,9 @@
   </samp>
 </p>
 
-<h2 align="left">
+<h3 align="left">
   <samp>stats</samp>
-</h2>
+</h3>
 
 <div>
 
@@ -70,24 +66,26 @@ JSON          10 hrs 8 mins   ██░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=flat-square)](https://wakatime.com/@73d09cdf-c9fc-423b-9f1d-ff77f6d291da)
 
 <details>
  <summary align="left">
     <samp>more stats</samp>
   </summary>
   <div align="left">
+
+  [![wakatime](https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=flat-square)](https://wakatime.com/@73d09cdf-c9fc-423b-9f1d-ff77f6d291da)
     
 ![metrics](/github-metrics.svg)
 
 </div>
 </details>
 
-<h2 align="left">
+<h3 align="left">
   <samp>find me at</samp>
-</h2>
+</h3>
 
 <p align="left">
+   find me at
   <samp>
     <a href="https://matijao.com">website</a> •
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
