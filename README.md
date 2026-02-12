@@ -33,8 +33,17 @@
     <a href="https://tailwindcss.com/">tailwind</a> •
     <a href="https://graphql.org/">graphql</a> •
     <a href="https://vitejs.dev/">vite</a> •
-    <a href="https://bun.sh/">bun</a> •
-    <a href="https://nodejs.org/en">node</a>
+    <a href="https://bun.sh/">bun</a>
+  </samp>
+</p>
+
+<p align="left">
+  <samp>
+    <a href="https://claude.ai/code">claude code</a> •
+    <a href="https://cursor.com">cursor</a> •
+    <a href="https://wispr.flow">wispr flow</a> •
+    <a href="https://opencode.ai">opencode</a> •
+    <a href="https://ghostty.org/">ghostty</a>
   </samp>
 </p>
 
