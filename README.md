@@ -5,11 +5,11 @@
 
 <div align="left"> 
    <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%234493F8" height="12" />
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
    <samp>ai <strong><em>everything</em></strong></samp>
    </div>
    <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%234493F8" height="12" />
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
    <samp>getting settled into senior role</samp>
    </div>
 </div>
@@ -23,23 +23,25 @@
 
 <p align="left">
   <samp>
-    <a href="https://vuejs.org">vue</a> •
-    <a href="https://nuxt.com">nuxt</a> •
-    <a href="https://www.typescriptlang.org/">typescript</a> •
-    <a href="https://tailwindcss.com/">tailwind</a> •
-    <a href="https://www.apollographql.com/">apollo graphql</a> •
-    <a href="https://vitejs.dev/">vite</a> •
-    <a href="https://bun.sh/">bun</a>
+    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
+    <a href="https://vuejs.org">vue</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://nuxt.com">nuxt</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
+    <a href="https://www.typescriptlang.org/">typescript</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://tailwindcss.com/">tailwind</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
+    <a href="https://www.apollographql.com/">apollo graphql</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://vitejs.dev/">vite</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%234493F8" height="12" />
+    <a href="https://bun.sh/">bun</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
   </samp>
 </p>
 
 <p align="left">
   <samp>
-    <a href="https://claude.com/product/claude-code">claude code</a> •
-    <a href="https://cursor.com">cursor</a> •
-    <a href="https://wisprflow.ai/">wispr flow</a> •
-    <a href="https://opencode.ai">opencode</a> •
-    <a href="https://ghostty.org/">ghostty</a>
+    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://claude.com/product/claude-code">claude code</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
+    <a href="https://cursor.com">cursor</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://wisprflow.ai/">wispr flow</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
+    <a href="https://opencode.ai">opencode</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://ghostty.org/">ghostty</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
   </samp>
 </p>
 
@@ -73,6 +75,8 @@ JSON          10 hrs 8 mins   ██░░░░░░░░░░░░░░�
   </summary>
   <div align="left">
 
+  <br>
+
   [![wakatime](https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=flat-square)](https://wakatime.com/@73d09cdf-c9fc-423b-9f1d-ff77f6d291da)
     
 ![metrics](/github-metrics.svg)
@@ -80,16 +84,14 @@ JSON          10 hrs 8 mins   ██░░░░░░░░░░░░░░�
 </div>
 </details>
 
-<h3 align="left">
-  <samp>find me at</samp>
-</h3>
+<hr />
 
 <p align="left">
-   find me at
   <samp>
-    <a href="https://matijao.com">website</a> •
-    <a href="https://www.linkedin.com/in/matijao/">linkedin</a> •
-    <a href="https://www.goodreads.com/matijao">goodreads</a> •
-    <a href="https://wakatime.com/@matijao">wakatime</a>  
+    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
+    <a href="https://matijao.com">website</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://www.linkedin.com/in/matijao/">linkedin</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
+    <a href="https://www.goodreads.com/matijao">goodreads</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://wakatime.com/@matijao">wakatime</a>  <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
   </samp>
 </p>
