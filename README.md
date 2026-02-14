@@ -8,10 +8,6 @@
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
    <samp>ai <strong><em>everything</em></strong></samp>
    </div>
-   <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-   <samp>getting settled into senior role</samp>
-   </div>
 </div>
 
 <h3 align="left">
