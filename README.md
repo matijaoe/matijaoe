@@ -12,9 +12,6 @@
 
 <h3 align="left">
    <samp>stack</samp>
-   <img src="https://api.iconify.design/logos:vue.svg" height="24" />
-   <img src="https://api.iconify.design/logos:typescript-icon.svg" height="24" />
-   <img src="https://api.iconify.design/logos:claude-icon.svg" height="24" />
 </h3>
 
 <p align="left">
