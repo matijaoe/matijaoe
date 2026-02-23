@@ -6,7 +6,11 @@
 <div align="left"> 
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
-   <samp>ai <em>everything</em></samp>
+   <samp>ai</samp>
+   </div>
+   <div>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
+   <samp>obsessively building stuff</samp>
    </div>
 </div>
 
