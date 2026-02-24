@@ -5,12 +5,12 @@
 
 <div align="left"> 
    <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
-   <samp>ai</samp>
+   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+   <samp>ai everything</samp>
    </div>
    <div>
    <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
-   <samp>obsessively building stuff</samp>
+   <samp>building lotsa stuff</samp>
    </div>
 </div>
 
