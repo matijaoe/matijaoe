@@ -30,8 +30,7 @@
   <samp>
     <a href="https://claude.com/product/claude-code">claude code</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
     <a href="https://cursor.com">cursor</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-    <a href="https://opencode.ai">opencode</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
-    <a href="https://wisprflow.ai/">wispr flow</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
+    <a href="https://wisprflow.ai/">wispr flow</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
     <a href="https://ghostty.org/">ghostty</a>
   </samp>
 </p>
