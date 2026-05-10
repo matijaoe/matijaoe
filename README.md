@@ -35,33 +35,9 @@
   </samp>
 </p>
 
-<h3 align="left">
-  <samp>stats</samp>
-</h3>
-
-<div>
-
-<!--### 📊 Weekly development breakdown-->
-<!--START_SECTION:waka-->
-
-```txt
-From: 08 April 2026 - To: 08 May 2026
-
-Total Time: 41 hrs 36 mins
-
-TypeScript   30 hrs 25 mins        ██████████████████░░░░░░░   71.68 %
-Other        4 hrs 51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Markdown     3 hrs 49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-CSS          1 hr 34 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Vue.js       51 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-```
-
-<!--END_SECTION:waka-->
-
-
 <details>
  <summary align="left">
-    <samp>more stats</samp>
+    <samp>stats</samp>
   </summary>
   <div align="left">
 
