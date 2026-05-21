@@ -16,17 +16,6 @@
 
 <p align="left">
   <samp>
-    <a href="https://vuejs.org">vue</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-    <a href="https://nuxt.com">nuxt</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
-    <a href="https://www.typescriptlang.org/">typescript</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-    <a href="https://tailwindcss.com/">tailwind</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
-    <a href="https://react.dev/">react</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-    <a href="https://bun.sh/">bun</a>
-  </samp>
-</p>
-
-<p align="left">
-  <samp>
     <a href="https://openai.com/codex/">codex</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
     <a href="https://claude.com/product/claude-code">claude code</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
     <a href="https://cursor.com">cursor</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
