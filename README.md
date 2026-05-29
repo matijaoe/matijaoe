@@ -1,47 +1,4 @@
-
-<p align="left">
-  <samp>what am I up to?</samp>
-</p>
-
-<div align="left"> 
-   <div>
-   <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-   <samp>ai</samp>
-   </div>
-</div>
-
-<h3 align="left">
-   <samp>stack</samp>
-</h3>
-
-<p align="left">
-  <samp>
-    <a href="https://openai.com/codex/">codex</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-    <a href="https://claude.com/product/claude-code">claude code</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
-    <a href="https://cursor.com">cursor</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
-    <a href="https://wisprflow.ai/">wispr flow</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
-    <a href="https://ghostty.org/">ghostty</a>
-  </samp>
-</p>
-
-<details>
- <summary align="left">
-    <samp>stats</samp>
-  </summary>
-  <div align="left">
-
-  <br>
-
-  [![wakatime](https://wakatime.com/badge/user/73d09cdf-c9fc-423b-9f1d-ff77f6d291da.svg?style=flat-square)](https://wakatime.com/@73d09cdf-c9fc-423b-9f1d-ff77f6d291da)
-    
-![metrics](/github-metrics.svg)
-
-</div>
-</details>
-
-<hr />
-
-<p align="left">
+<p align="center">
   <samp>
     <a href="https://matijao.com">website</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%23D97858" height="12" />
     <a href="https://www.linkedin.com/in/matijao/">linkedin</a> <img src="https://api.iconify.design/fluent-mdl2:radio-bullet.svg?color=%2341B883" height="12" />
